@@ -1,0 +1,811 @@
+[{
+        "id": 13034,
+        "date": "2021-02-14T11:08:38",
+        "date_gmt": "2021-02-14T05:38:38",
+        "guid": {
+            "rendered": "https:\/\/www.songstarter.in\/?post_type=stm-courses&#038;p=13034"
+        },
+        "modified": "2021-03-23T16:31:03",
+        "modified_gmt": "2021-03-23T11:01:03",
+        "slug": "how-to-make-brazilian-bass",
+        "status": "publish",
+        "type": "stm-courses",
+        "link": "https:\/\/www.loststoriesacademy.com\/courses\/how-to-make-brazilian-bass\/",
+        "title": {
+            "rendered": "How to make <br> Brazilian Bass"
+        },
+        "content": {
+            "rendered": "<p>Learn how to make a Brazilian Bass track in Ableton Live from scratch using stock and third party plugins. The in-depth videos cover the complete process of music production, Track arrangement, Mixing and Mastering.<\/p>\n",
+            "protected": false
+        },
+        "excerpt": {
+            "rendered": "<p>Learn how to make a Brazilian Bass track in Ableton Live from scratch using stock and third party plugins. The in-depth videos cover the complete process of music production, Track arrangement, Mixing and Mastering.<\/p>\n",
+            "protected": false
+        },
+        "author": 108,
+        "featured_media": 21531,
+        "template": "",
+        "meta": {
+            "_bbp_topic_count": 0,
+            "_bbp_reply_count": 0,
+            "_bbp_total_topic_count": 0,
+            "_bbp_total_reply_count": 0,
+            "_bbp_voice_count": 0,
+            "_bbp_anonymous_reply_count": 0,
+            "_bbp_topic_count_hidden": 0,
+            "_bbp_reply_count_hidden": 0,
+            "_bbp_forum_subforum_count": 0,
+            "spay_email": ""
+        },
+        "stm_lms_course_taxonomy": [
+            190
+        ],
+        "yoast_head": "<!-- This site is optimized with the Yoast SEO plugin v16.0.2 - https:\/\/yoast.com\/wordpress\/plugins\/seo\/ -->\n<title>How to make  Brazilian Bass - Lost Stories Academy<\/title>\n<link rel=\"canonical\" href=\"https:\/\/www.loststoriesacademy.com\/courses\/how-to-make-brazilian-bass\/\" \/>\n<meta property=\"og:locale\" content=\"en_US\" \/>\n<meta property=\"og:type\" content=\"article\" \/>\n<meta property=\"og:title\" content=\"How to make  Brazilian Bass - Lost Stories Academy\" \/>\n<meta property=\"og:description\" content=\"Learn how to make a Brazilian Bass track in Ableton Live from scratch using stock and third party plugins. The in-depth videos cover the complete process of music production, Track arrangement, Mixing and Mastering.\" \/>\n<meta property=\"og:url\" content=\"https:\/\/www.loststoriesacademy.com\/courses\/how-to-make-brazilian-bass\/\" \/>\n<meta property=\"og:site_name\" content=\"Lost Stories Academy\" \/>\n<meta property=\"article:modified_time\" content=\"2021-03-23T11:01:03+00:00\" \/>\n<meta property=\"og:image\" content=\"https:\/\/d8skzlz85ruek.cloudfront.net\/wp-content\/uploads\/Brazilian-Bass.jpg\" \/>\n\t<meta property=\"og:image:width\" content=\"800\" \/>\n\t<meta property=\"og:image:height\" content=\"600\" \/>\n<meta name=\"twitter:card\" content=\"summary_large_image\" \/>\n<script type=\"application\/ld+json\" class=\"yoast-schema-graph\">{\"@context\":\"https:\/\/schema.org\",\"@graph\":[{\"@type\":\"Organization\",\"@id\":\"https:\/\/www.loststoriesacademy.com\/#organization\",\"name\":\"Lost Stories Academy\",\"url\":\"https:\/\/www.loststoriesacademy.com\/\",\"sameAs\":[],\"logo\":{\"@type\":\"ImageObject\",\"@id\":\"https:\/\/www.loststoriesacademy.com\/#logo\",\"inLanguage\":\"en-US\",\"url\":\"https:\/\/d8skzlz85ruek.cloudfront.net\/wp-content\/uploads\/LS-banner-min.jpg\",\"width\":842,\"height\":595,\"caption\":\"Lost Stories Academy\"},\"image\":{\"@id\":\"https:\/\/www.loststoriesacademy.com\/#logo\"}},{\"@type\":\"WebSite\",\"@id\":\"https:\/\/www.loststoriesacademy.com\/#website\",\"url\":\"https:\/\/www.loststoriesacademy.com\/\",\"name\":\"Lost Stories Academy\",\"description\":\"India\\u2019s Premier DJing &amp; Music Production School\",\"publisher\":{\"@id\":\"https:\/\/www.loststoriesacademy.com\/#organization\"},\"potentialAction\":[{\"@type\":\"SearchAction\",\"target\":\"https:\/\/www.loststoriesacademy.com\/?s={search_term_string}\",\"query-input\":\"required name=search_term_string\"}],\"inLanguage\":\"en-US\"},{\"@type\":\"ImageObject\",\"@id\":\"https:\/\/www.loststoriesacademy.com\/courses\/how-to-make-brazilian-bass\/#primaryimage\",\"inLanguage\":\"en-US\",\"url\":\"https:\/\/d8skzlz85ruek.cloudfront.net\/wp-content\/uploads\/Brazilian-Bass-2.jpg\",\"width\":800,\"height\":600},{\"@type\":\"WebPage\",\"@id\":\"https:\/\/www.loststoriesacademy.com\/courses\/how-to-make-brazilian-bass\/#webpage\",\"url\":\"https:\/\/www.loststoriesacademy.com\/courses\/how-to-make-brazilian-bass\/\",\"name\":\"How to make Brazilian Bass - Lost Stories Academy\",\"isPartOf\":{\"@id\":\"https:\/\/www.loststoriesacademy.com\/#website\"},\"primaryImageOfPage\":{\"@id\":\"https:\/\/www.loststoriesacademy.com\/courses\/how-to-make-brazilian-bass\/#primaryimage\"},\"datePublished\":\"2021-02-14T05:38:38+00:00\",\"dateModified\":\"2021-03-23T11:01:03+00:00\",\"breadcrumb\":{\"@id\":\"https:\/\/www.loststoriesacademy.com\/courses\/how-to-make-brazilian-bass\/#breadcrumb\"},\"inLanguage\":\"en-US\",\"potentialAction\":[{\"@type\":\"ReadAction\",\"target\":[\"https:\/\/www.loststoriesacademy.com\/courses\/how-to-make-brazilian-bass\/\"]}]},{\"@type\":\"BreadcrumbList\",\"@id\":\"https:\/\/www.loststoriesacademy.com\/courses\/how-to-make-brazilian-bass\/#breadcrumb\",\"itemListElement\":[{\"@type\":\"ListItem\",\"position\":1,\"item\":{\"@type\":\"WebPage\",\"@id\":\"https:\/\/www.loststoriesacademy.com\/\",\"url\":\"https:\/\/www.loststoriesacademy.com\/\",\"name\":\"Home\"}},{\"@type\":\"ListItem\",\"position\":2,\"item\":{\"@type\":\"WebPage\",\"@id\":\"https:\/\/www.loststoriesacademy.com\/courses\/\",\"url\":\"https:\/\/www.loststoriesacademy.com\/courses\/\",\"name\":\"Courses\"}},{\"@type\":\"ListItem\",\"position\":3,\"item\":{\"@type\":\"WebPage\",\"@id\":\"https:\/\/www.loststoriesacademy.com\/course\/music-production\/\",\"url\":\"https:\/\/www.loststoriesacademy.com\/course\/music-production\/\",\"name\":\"Music Production\"}},{\"@type\":\"ListItem\",\"position\":4,\"item\":{\"@type\":\"WebPage\",\"@id\":\"https:\/\/www.loststoriesacademy.com\/courses\/how-to-make-brazilian-bass\/\",\"url\":\"https:\/\/www.loststoriesacademy.com\/courses\/how-to-make-brazilian-bass\/\",\"name\":\"How to make Brazilian Bass\"}}]}]}<\/script>\n<!-- \/ Yoast SEO plugin. -->",
+        "ACF": false,
+        "_links": {
+            "self": [{
+                "href": "https:\/\/www.loststoriesacademy.com\/wp-json\/wp\/v2\/stm-courses\/13034"
+            }],
+            "collection": [{
+                "href": "https:\/\/www.loststoriesacademy.com\/wp-json\/wp\/v2\/stm-courses"
+            }],
+            "about": [{
+                "href": "https:\/\/www.loststoriesacademy.com\/wp-json\/wp\/v2\/types\/stm-courses"
+            }],
+            "author": [{
+                "embeddable": true,
+                "href": "https:\/\/www.loststoriesacademy.com\/wp-json\/wp\/v2\/users\/108"
+            }],
+            "version-history": [{
+                "count": 0,
+                "href": "https:\/\/www.loststoriesacademy.com\/wp-json\/wp\/v2\/stm-courses\/13034\/revisions"
+            }],
+            "wp:featuredmedia": [{
+                "embeddable": true,
+                "href": "https:\/\/www.loststoriesacademy.com\/wp-json\/wp\/v2\/media\/21531"
+            }],
+            "wp:attachment": [{
+                "href": "https:\/\/www.loststoriesacademy.com\/wp-json\/wp\/v2\/media?parent=13034"
+            }],
+            "wp:term": [{
+                "taxonomy": "stm_lms_course_taxonomy",
+                "embeddable": true,
+                "href": "https:\/\/www.loststoriesacademy.com\/wp-json\/wp\/v2\/stm_lms_course_taxonomy?post=13034"
+            }],
+            "curies": [{
+                "name": "wp",
+                "href": "https:\/\/api.w.org\/{rel}",
+                "templated": true
+            }]
+        }
+    },
+    {
+        "id": 13024,
+        "date": "2021-02-14T11:09:24",
+        "date_gmt": "2021-02-14T05:39:24",
+        "guid": {
+            "rendered": "https:\/\/www.songstarter.in\/?post_type=stm-courses&#038;p=13024"
+        },
+        "modified": "2021-03-23T16:30:23",
+        "modified_gmt": "2021-03-23T11:00:23",
+        "slug": "how-to-make-future-bass",
+        "status": "publish",
+        "type": "stm-courses",
+        "link": "https:\/\/www.loststoriesacademy.com\/courses\/how-to-make-future-bass\/",
+        "title": {
+            "rendered": "How to make <br> Future Bass"
+        },
+        "content": {
+            "rendered": "<p>Learn how to make a Future Bass track in Ableton Live from scratch using stock and third party plugins. The in-depth videos cover the complete process of music production, Track arrangement, Mixing and Mastering.<\/p>\n",
+            "protected": false
+        },
+        "excerpt": {
+            "rendered": "<p>Learn how to make a Future Bass track in Ableton Live from scratch using stock and third party plugins. The in-depth videos cover the complete process of music production, Track arrangement, Mixing and Mastering.<\/p>\n",
+            "protected": false
+        },
+        "author": 108,
+        "featured_media": 21532,
+        "template": "",
+        "meta": {
+            "_bbp_topic_count": 0,
+            "_bbp_reply_count": 0,
+            "_bbp_total_topic_count": 0,
+            "_bbp_total_reply_count": 0,
+            "_bbp_voice_count": 0,
+            "_bbp_anonymous_reply_count": 0,
+            "_bbp_topic_count_hidden": 0,
+            "_bbp_reply_count_hidden": 0,
+            "_bbp_forum_subforum_count": 0,
+            "spay_email": ""
+        },
+        "stm_lms_course_taxonomy": [
+            190
+        ],
+        "yoast_head": "<!-- This site is optimized with the Yoast SEO plugin v16.0.2 - https:\/\/yoast.com\/wordpress\/plugins\/seo\/ -->\n<title>How to make  Future Bass - Lost Stories Academy<\/title>\n<link rel=\"canonical\" href=\"https:\/\/www.loststoriesacademy.com\/courses\/how-to-make-future-bass\/\" \/>\n<meta property=\"og:locale\" content=\"en_US\" \/>\n<meta property=\"og:type\" content=\"article\" \/>\n<meta property=\"og:title\" content=\"How to make  Future Bass - Lost Stories Academy\" \/>\n<meta property=\"og:description\" content=\"Learn how to make a Future Bass track in Ableton Live from scratch using stock and third party plugins. The in-depth videos cover the complete process of music production, Track arrangement, Mixing and Mastering.\" \/>\n<meta property=\"og:url\" content=\"https:\/\/www.loststoriesacademy.com\/courses\/how-to-make-future-bass\/\" \/>\n<meta property=\"og:site_name\" content=\"Lost Stories Academy\" \/>\n<meta property=\"article:modified_time\" content=\"2021-03-23T11:00:23+00:00\" \/>\n<meta property=\"og:image\" content=\"https:\/\/d8skzlz85ruek.cloudfront.net\/wp-content\/uploads\/Future-Bass.jpg\" \/>\n\t<meta property=\"og:image:width\" content=\"800\" \/>\n\t<meta property=\"og:image:height\" content=\"600\" \/>\n<meta name=\"twitter:card\" content=\"summary_large_image\" \/>\n<script type=\"application\/ld+json\" class=\"yoast-schema-graph\">{\"@context\":\"https:\/\/schema.org\",\"@graph\":[{\"@type\":\"Organization\",\"@id\":\"https:\/\/www.loststoriesacademy.com\/#organization\",\"name\":\"Lost Stories Academy\",\"url\":\"https:\/\/www.loststoriesacademy.com\/\",\"sameAs\":[],\"logo\":{\"@type\":\"ImageObject\",\"@id\":\"https:\/\/www.loststoriesacademy.com\/#logo\",\"inLanguage\":\"en-US\",\"url\":\"https:\/\/d8skzlz85ruek.cloudfront.net\/wp-content\/uploads\/LS-banner-min.jpg\",\"width\":842,\"height\":595,\"caption\":\"Lost Stories Academy\"},\"image\":{\"@id\":\"https:\/\/www.loststoriesacademy.com\/#logo\"}},{\"@type\":\"WebSite\",\"@id\":\"https:\/\/www.loststoriesacademy.com\/#website\",\"url\":\"https:\/\/www.loststoriesacademy.com\/\",\"name\":\"Lost Stories Academy\",\"description\":\"India\\u2019s Premier DJing &amp; Music Production School\",\"publisher\":{\"@id\":\"https:\/\/www.loststoriesacademy.com\/#organization\"},\"potentialAction\":[{\"@type\":\"SearchAction\",\"target\":\"https:\/\/www.loststoriesacademy.com\/?s={search_term_string}\",\"query-input\":\"required name=search_term_string\"}],\"inLanguage\":\"en-US\"},{\"@type\":\"ImageObject\",\"@id\":\"https:\/\/www.loststoriesacademy.com\/courses\/how-to-make-future-bass\/#primaryimage\",\"inLanguage\":\"en-US\",\"url\":\"https:\/\/d8skzlz85ruek.cloudfront.net\/wp-content\/uploads\/Future-Bass-2.jpg\",\"width\":800,\"height\":600},{\"@type\":\"WebPage\",\"@id\":\"https:\/\/www.loststoriesacademy.com\/courses\/how-to-make-future-bass\/#webpage\",\"url\":\"https:\/\/www.loststoriesacademy.com\/courses\/how-to-make-future-bass\/\",\"name\":\"How to make Future Bass - Lost Stories Academy\",\"isPartOf\":{\"@id\":\"https:\/\/www.loststoriesacademy.com\/#website\"},\"primaryImageOfPage\":{\"@id\":\"https:\/\/www.loststoriesacademy.com\/courses\/how-to-make-future-bass\/#primaryimage\"},\"datePublished\":\"2021-02-14T05:39:24+00:00\",\"dateModified\":\"2021-03-23T11:00:23+00:00\",\"breadcrumb\":{\"@id\":\"https:\/\/www.loststoriesacademy.com\/courses\/how-to-make-future-bass\/#breadcrumb\"},\"inLanguage\":\"en-US\",\"potentialAction\":[{\"@type\":\"ReadAction\",\"target\":[\"https:\/\/www.loststoriesacademy.com\/courses\/how-to-make-future-bass\/\"]}]},{\"@type\":\"BreadcrumbList\",\"@id\":\"https:\/\/www.loststoriesacademy.com\/courses\/how-to-make-future-bass\/#breadcrumb\",\"itemListElement\":[{\"@type\":\"ListItem\",\"position\":1,\"item\":{\"@type\":\"WebPage\",\"@id\":\"https:\/\/www.loststoriesacademy.com\/\",\"url\":\"https:\/\/www.loststoriesacademy.com\/\",\"name\":\"Home\"}},{\"@type\":\"ListItem\",\"position\":2,\"item\":{\"@type\":\"WebPage\",\"@id\":\"https:\/\/www.loststoriesacademy.com\/courses\/\",\"url\":\"https:\/\/www.loststoriesacademy.com\/courses\/\",\"name\":\"Courses\"}},{\"@type\":\"ListItem\",\"position\":3,\"item\":{\"@type\":\"WebPage\",\"@id\":\"https:\/\/www.loststoriesacademy.com\/course\/music-production\/\",\"url\":\"https:\/\/www.loststoriesacademy.com\/course\/music-production\/\",\"name\":\"Music Production\"}},{\"@type\":\"ListItem\",\"position\":4,\"item\":{\"@type\":\"WebPage\",\"@id\":\"https:\/\/www.loststoriesacademy.com\/courses\/how-to-make-future-bass\/\",\"url\":\"https:\/\/www.loststoriesacademy.com\/courses\/how-to-make-future-bass\/\",\"name\":\"How to make Future Bass\"}}]}]}<\/script>\n<!-- \/ Yoast SEO plugin. -->",
+        "ACF": false,
+        "_links": {
+            "self": [{
+                "href": "https:\/\/www.loststoriesacademy.com\/wp-json\/wp\/v2\/stm-courses\/13024"
+            }],
+            "collection": [{
+                "href": "https:\/\/www.loststoriesacademy.com\/wp-json\/wp\/v2\/stm-courses"
+            }],
+            "about": [{
+                "href": "https:\/\/www.loststoriesacademy.com\/wp-json\/wp\/v2\/types\/stm-courses"
+            }],
+            "author": [{
+                "embeddable": true,
+                "href": "https:\/\/www.loststoriesacademy.com\/wp-json\/wp\/v2\/users\/108"
+            }],
+            "version-history": [{
+                "count": 0,
+                "href": "https:\/\/www.loststoriesacademy.com\/wp-json\/wp\/v2\/stm-courses\/13024\/revisions"
+            }],
+            "wp:featuredmedia": [{
+                "embeddable": true,
+                "href": "https:\/\/www.loststoriesacademy.com\/wp-json\/wp\/v2\/media\/21532"
+            }],
+            "wp:attachment": [{
+                "href": "https:\/\/www.loststoriesacademy.com\/wp-json\/wp\/v2\/media?parent=13024"
+            }],
+            "wp:term": [{
+                "taxonomy": "stm_lms_course_taxonomy",
+                "embeddable": true,
+                "href": "https:\/\/www.loststoriesacademy.com\/wp-json\/wp\/v2\/stm_lms_course_taxonomy?post=13024"
+            }],
+            "curies": [{
+                "name": "wp",
+                "href": "https:\/\/api.w.org\/{rel}",
+                "templated": true
+            }]
+        }
+    },
+    {
+        "id": 13043,
+        "date": "2021-02-14T11:09:24",
+        "date_gmt": "2021-02-14T05:39:24",
+        "guid": {
+            "rendered": "https:\/\/www.songstarter.in\/?post_type=stm-courses&#038;p=13043"
+        },
+        "modified": "2021-03-23T16:30:35",
+        "modified_gmt": "2021-03-23T11:00:35",
+        "slug": "how-to-make-future-house",
+        "status": "publish",
+        "type": "stm-courses",
+        "link": "https:\/\/www.loststoriesacademy.com\/courses\/how-to-make-future-house\/",
+        "title": {
+            "rendered": "How to make <br> Future House"
+        },
+        "content": {
+            "rendered": "<p>Learn how to make a Future House track in Ableton Live from scratch using stock and third party plugins. The in-depth videos cover the complete process of music production, Track arrangement, Mixing and Mastering.<\/p>\n",
+            "protected": false
+        },
+        "excerpt": {
+            "rendered": "<p>Learn how to make a Future House track in Ableton Live from scratch using stock and third party plugins. The in-depth videos cover the complete process of music production, Track arrangement, Mixing and Mastering.<\/p>\n",
+            "protected": false
+        },
+        "author": 108,
+        "featured_media": 21533,
+        "template": "",
+        "meta": {
+            "_bbp_topic_count": 0,
+            "_bbp_reply_count": 0,
+            "_bbp_total_topic_count": 0,
+            "_bbp_total_reply_count": 0,
+            "_bbp_voice_count": 0,
+            "_bbp_anonymous_reply_count": 0,
+            "_bbp_topic_count_hidden": 0,
+            "_bbp_reply_count_hidden": 0,
+            "_bbp_forum_subforum_count": 0,
+            "spay_email": ""
+        },
+        "stm_lms_course_taxonomy": [
+            190
+        ],
+        "yoast_head": "<!-- This site is optimized with the Yoast SEO plugin v16.0.2 - https:\/\/yoast.com\/wordpress\/plugins\/seo\/ -->\n<title>How to make  Future House - Lost Stories Academy<\/title>\n<link rel=\"canonical\" href=\"https:\/\/www.loststoriesacademy.com\/courses\/how-to-make-future-house\/\" \/>\n<meta property=\"og:locale\" content=\"en_US\" \/>\n<meta property=\"og:type\" content=\"article\" \/>\n<meta property=\"og:title\" content=\"How to make  Future House - Lost Stories Academy\" \/>\n<meta property=\"og:description\" content=\"Learn how to make a Future House track in Ableton Live from scratch using stock and third party plugins. The in-depth videos cover the complete process of music production, Track arrangement, Mixing and Mastering.\" \/>\n<meta property=\"og:url\" content=\"https:\/\/www.loststoriesacademy.com\/courses\/how-to-make-future-house\/\" \/>\n<meta property=\"og:site_name\" content=\"Lost Stories Academy\" \/>\n<meta property=\"article:modified_time\" content=\"2021-03-23T11:00:35+00:00\" \/>\n<meta property=\"og:image\" content=\"https:\/\/d8skzlz85ruek.cloudfront.net\/wp-content\/uploads\/Future-House.jpg\" \/>\n\t<meta property=\"og:image:width\" content=\"800\" \/>\n\t<meta property=\"og:image:height\" content=\"600\" \/>\n<meta name=\"twitter:card\" content=\"summary_large_image\" \/>\n<script type=\"application\/ld+json\" class=\"yoast-schema-graph\">{\"@context\":\"https:\/\/schema.org\",\"@graph\":[{\"@type\":\"Organization\",\"@id\":\"https:\/\/www.loststoriesacademy.com\/#organization\",\"name\":\"Lost Stories Academy\",\"url\":\"https:\/\/www.loststoriesacademy.com\/\",\"sameAs\":[],\"logo\":{\"@type\":\"ImageObject\",\"@id\":\"https:\/\/www.loststoriesacademy.com\/#logo\",\"inLanguage\":\"en-US\",\"url\":\"https:\/\/d8skzlz85ruek.cloudfront.net\/wp-content\/uploads\/LS-banner-min.jpg\",\"width\":842,\"height\":595,\"caption\":\"Lost Stories Academy\"},\"image\":{\"@id\":\"https:\/\/www.loststoriesacademy.com\/#logo\"}},{\"@type\":\"WebSite\",\"@id\":\"https:\/\/www.loststoriesacademy.com\/#website\",\"url\":\"https:\/\/www.loststoriesacademy.com\/\",\"name\":\"Lost Stories Academy\",\"description\":\"India\\u2019s Premier DJing &amp; Music Production School\",\"publisher\":{\"@id\":\"https:\/\/www.loststoriesacademy.com\/#organization\"},\"potentialAction\":[{\"@type\":\"SearchAction\",\"target\":\"https:\/\/www.loststoriesacademy.com\/?s={search_term_string}\",\"query-input\":\"required name=search_term_string\"}],\"inLanguage\":\"en-US\"},{\"@type\":\"ImageObject\",\"@id\":\"https:\/\/www.loststoriesacademy.com\/courses\/how-to-make-future-house\/#primaryimage\",\"inLanguage\":\"en-US\",\"url\":\"https:\/\/d8skzlz85ruek.cloudfront.net\/wp-content\/uploads\/Future-House-2.jpg\",\"width\":800,\"height\":600},{\"@type\":\"WebPage\",\"@id\":\"https:\/\/www.loststoriesacademy.com\/courses\/how-to-make-future-house\/#webpage\",\"url\":\"https:\/\/www.loststoriesacademy.com\/courses\/how-to-make-future-house\/\",\"name\":\"How to make Future House - Lost Stories Academy\",\"isPartOf\":{\"@id\":\"https:\/\/www.loststoriesacademy.com\/#website\"},\"primaryImageOfPage\":{\"@id\":\"https:\/\/www.loststoriesacademy.com\/courses\/how-to-make-future-house\/#primaryimage\"},\"datePublished\":\"2021-02-14T05:39:24+00:00\",\"dateModified\":\"2021-03-23T11:00:35+00:00\",\"breadcrumb\":{\"@id\":\"https:\/\/www.loststoriesacademy.com\/courses\/how-to-make-future-house\/#breadcrumb\"},\"inLanguage\":\"en-US\",\"potentialAction\":[{\"@type\":\"ReadAction\",\"target\":[\"https:\/\/www.loststoriesacademy.com\/courses\/how-to-make-future-house\/\"]}]},{\"@type\":\"BreadcrumbList\",\"@id\":\"https:\/\/www.loststoriesacademy.com\/courses\/how-to-make-future-house\/#breadcrumb\",\"itemListElement\":[{\"@type\":\"ListItem\",\"position\":1,\"item\":{\"@type\":\"WebPage\",\"@id\":\"https:\/\/www.loststoriesacademy.com\/\",\"url\":\"https:\/\/www.loststoriesacademy.com\/\",\"name\":\"Home\"}},{\"@type\":\"ListItem\",\"position\":2,\"item\":{\"@type\":\"WebPage\",\"@id\":\"https:\/\/www.loststoriesacademy.com\/courses\/\",\"url\":\"https:\/\/www.loststoriesacademy.com\/courses\/\",\"name\":\"Courses\"}},{\"@type\":\"ListItem\",\"position\":3,\"item\":{\"@type\":\"WebPage\",\"@id\":\"https:\/\/www.loststoriesacademy.com\/course\/music-production\/\",\"url\":\"https:\/\/www.loststoriesacademy.com\/course\/music-production\/\",\"name\":\"Music Production\"}},{\"@type\":\"ListItem\",\"position\":4,\"item\":{\"@type\":\"WebPage\",\"@id\":\"https:\/\/www.loststoriesacademy.com\/courses\/how-to-make-future-house\/\",\"url\":\"https:\/\/www.loststoriesacademy.com\/courses\/how-to-make-future-house\/\",\"name\":\"How to make Future House\"}}]}]}<\/script>\n<!-- \/ Yoast SEO plugin. -->",
+        "ACF": false,
+        "_links": {
+            "self": [{
+                "href": "https:\/\/www.loststoriesacademy.com\/wp-json\/wp\/v2\/stm-courses\/13043"
+            }],
+            "collection": [{
+                "href": "https:\/\/www.loststoriesacademy.com\/wp-json\/wp\/v2\/stm-courses"
+            }],
+            "about": [{
+                "href": "https:\/\/www.loststoriesacademy.com\/wp-json\/wp\/v2\/types\/stm-courses"
+            }],
+            "author": [{
+                "embeddable": true,
+                "href": "https:\/\/www.loststoriesacademy.com\/wp-json\/wp\/v2\/users\/108"
+            }],
+            "version-history": [{
+                "count": 0,
+                "href": "https:\/\/www.loststoriesacademy.com\/wp-json\/wp\/v2\/stm-courses\/13043\/revisions"
+            }],
+            "wp:featuredmedia": [{
+                "embeddable": true,
+                "href": "https:\/\/www.loststoriesacademy.com\/wp-json\/wp\/v2\/media\/21533"
+            }],
+            "wp:attachment": [{
+                "href": "https:\/\/www.loststoriesacademy.com\/wp-json\/wp\/v2\/media?parent=13043"
+            }],
+            "wp:term": [{
+                "taxonomy": "stm_lms_course_taxonomy",
+                "embeddable": true,
+                "href": "https:\/\/www.loststoriesacademy.com\/wp-json\/wp\/v2\/stm_lms_course_taxonomy?post=13043"
+            }],
+            "curies": [{
+                "name": "wp",
+                "href": "https:\/\/api.w.org\/{rel}",
+                "templated": true
+            }]
+        }
+    },
+    {
+        "id": 13051,
+        "date": "2021-02-14T11:09:24",
+        "date_gmt": "2021-02-14T05:39:24",
+        "guid": {
+            "rendered": "https:\/\/www.songstarter.in\/?post_type=stm-courses&#038;p=13051"
+        },
+        "modified": "2021-03-23T16:30:49",
+        "modified_gmt": "2021-03-23T11:00:49",
+        "slug": "how-to-make-pop-dance",
+        "status": "publish",
+        "type": "stm-courses",
+        "link": "https:\/\/www.loststoriesacademy.com\/courses\/how-to-make-pop-dance\/",
+        "title": {
+            "rendered": "How to make <br> Pop\/Dance"
+        },
+        "content": {
+            "rendered": "<p>Learn how to make a Pop\/Dance track in Ableton Live from scratch using stock and third party plugins. The in-depth videos cover the complete process of music production, Track arrangement, Mixing and Mastering.<\/p>\n",
+            "protected": false
+        },
+        "excerpt": {
+            "rendered": "<p>Learn how to make a Pop\/Dance track in Ableton Live from scratch using stock and third party plugins. The in-depth videos cover the complete process of music production, Track arrangement, Mixing and Mastering.<\/p>\n",
+            "protected": false
+        },
+        "author": 108,
+        "featured_media": 21534,
+        "template": "",
+        "meta": {
+            "_bbp_topic_count": 0,
+            "_bbp_reply_count": 0,
+            "_bbp_total_topic_count": 0,
+            "_bbp_total_reply_count": 0,
+            "_bbp_voice_count": 0,
+            "_bbp_anonymous_reply_count": 0,
+            "_bbp_topic_count_hidden": 0,
+            "_bbp_reply_count_hidden": 0,
+            "_bbp_forum_subforum_count": 0,
+            "spay_email": ""
+        },
+        "stm_lms_course_taxonomy": [
+            190
+        ],
+        "yoast_head": "<!-- This site is optimized with the Yoast SEO plugin v16.0.2 - https:\/\/yoast.com\/wordpress\/plugins\/seo\/ -->\n<title>How to make  Pop\/Dance - Lost Stories Academy<\/title>\n<link rel=\"canonical\" href=\"https:\/\/www.loststoriesacademy.com\/courses\/how-to-make-pop-dance\/\" \/>\n<meta property=\"og:locale\" content=\"en_US\" \/>\n<meta property=\"og:type\" content=\"article\" \/>\n<meta property=\"og:title\" content=\"How to make  Pop\/Dance - Lost Stories Academy\" \/>\n<meta property=\"og:description\" content=\"Learn how to make a Pop\/Dance track in Ableton Live from scratch using stock and third party plugins. The in-depth videos cover the complete process of music production, Track arrangement, Mixing and Mastering.\" \/>\n<meta property=\"og:url\" content=\"https:\/\/www.loststoriesacademy.com\/courses\/how-to-make-pop-dance\/\" \/>\n<meta property=\"og:site_name\" content=\"Lost Stories Academy\" \/>\n<meta property=\"article:modified_time\" content=\"2021-03-23T11:00:49+00:00\" \/>\n<meta property=\"og:image\" content=\"https:\/\/d8skzlz85ruek.cloudfront.net\/wp-content\/uploads\/PopDance.jpg\" \/>\n\t<meta property=\"og:image:width\" content=\"800\" \/>\n\t<meta property=\"og:image:height\" content=\"600\" \/>\n<meta name=\"twitter:card\" content=\"summary_large_image\" \/>\n<script type=\"application\/ld+json\" class=\"yoast-schema-graph\">{\"@context\":\"https:\/\/schema.org\",\"@graph\":[{\"@type\":\"Organization\",\"@id\":\"https:\/\/www.loststoriesacademy.com\/#organization\",\"name\":\"Lost Stories Academy\",\"url\":\"https:\/\/www.loststoriesacademy.com\/\",\"sameAs\":[],\"logo\":{\"@type\":\"ImageObject\",\"@id\":\"https:\/\/www.loststoriesacademy.com\/#logo\",\"inLanguage\":\"en-US\",\"url\":\"https:\/\/d8skzlz85ruek.cloudfront.net\/wp-content\/uploads\/LS-banner-min.jpg\",\"width\":842,\"height\":595,\"caption\":\"Lost Stories Academy\"},\"image\":{\"@id\":\"https:\/\/www.loststoriesacademy.com\/#logo\"}},{\"@type\":\"WebSite\",\"@id\":\"https:\/\/www.loststoriesacademy.com\/#website\",\"url\":\"https:\/\/www.loststoriesacademy.com\/\",\"name\":\"Lost Stories Academy\",\"description\":\"India\\u2019s Premier DJing &amp; Music Production School\",\"publisher\":{\"@id\":\"https:\/\/www.loststoriesacademy.com\/#organization\"},\"potentialAction\":[{\"@type\":\"SearchAction\",\"target\":\"https:\/\/www.loststoriesacademy.com\/?s={search_term_string}\",\"query-input\":\"required name=search_term_string\"}],\"inLanguage\":\"en-US\"},{\"@type\":\"ImageObject\",\"@id\":\"https:\/\/www.loststoriesacademy.com\/courses\/how-to-make-pop-dance\/#primaryimage\",\"inLanguage\":\"en-US\",\"url\":\"https:\/\/d8skzlz85ruek.cloudfront.net\/wp-content\/uploads\/PopDance-2.jpg\",\"width\":800,\"height\":600},{\"@type\":\"WebPage\",\"@id\":\"https:\/\/www.loststoriesacademy.com\/courses\/how-to-make-pop-dance\/#webpage\",\"url\":\"https:\/\/www.loststoriesacademy.com\/courses\/how-to-make-pop-dance\/\",\"name\":\"How to make Pop\/Dance - Lost Stories Academy\",\"isPartOf\":{\"@id\":\"https:\/\/www.loststoriesacademy.com\/#website\"},\"primaryImageOfPage\":{\"@id\":\"https:\/\/www.loststoriesacademy.com\/courses\/how-to-make-pop-dance\/#primaryimage\"},\"datePublished\":\"2021-02-14T05:39:24+00:00\",\"dateModified\":\"2021-03-23T11:00:49+00:00\",\"breadcrumb\":{\"@id\":\"https:\/\/www.loststoriesacademy.com\/courses\/how-to-make-pop-dance\/#breadcrumb\"},\"inLanguage\":\"en-US\",\"potentialAction\":[{\"@type\":\"ReadAction\",\"target\":[\"https:\/\/www.loststoriesacademy.com\/courses\/how-to-make-pop-dance\/\"]}]},{\"@type\":\"BreadcrumbList\",\"@id\":\"https:\/\/www.loststoriesacademy.com\/courses\/how-to-make-pop-dance\/#breadcrumb\",\"itemListElement\":[{\"@type\":\"ListItem\",\"position\":1,\"item\":{\"@type\":\"WebPage\",\"@id\":\"https:\/\/www.loststoriesacademy.com\/\",\"url\":\"https:\/\/www.loststoriesacademy.com\/\",\"name\":\"Home\"}},{\"@type\":\"ListItem\",\"position\":2,\"item\":{\"@type\":\"WebPage\",\"@id\":\"https:\/\/www.loststoriesacademy.com\/courses\/\",\"url\":\"https:\/\/www.loststoriesacademy.com\/courses\/\",\"name\":\"Courses\"}},{\"@type\":\"ListItem\",\"position\":3,\"item\":{\"@type\":\"WebPage\",\"@id\":\"https:\/\/www.loststoriesacademy.com\/course\/music-production\/\",\"url\":\"https:\/\/www.loststoriesacademy.com\/course\/music-production\/\",\"name\":\"Music Production\"}},{\"@type\":\"ListItem\",\"position\":4,\"item\":{\"@type\":\"WebPage\",\"@id\":\"https:\/\/www.loststoriesacademy.com\/courses\/how-to-make-pop-dance\/\",\"url\":\"https:\/\/www.loststoriesacademy.com\/courses\/how-to-make-pop-dance\/\",\"name\":\"How to make Pop\/Dance\"}}]}]}<\/script>\n<!-- \/ Yoast SEO plugin. -->",
+        "ACF": false,
+        "_links": {
+            "self": [{
+                "href": "https:\/\/www.loststoriesacademy.com\/wp-json\/wp\/v2\/stm-courses\/13051"
+            }],
+            "collection": [{
+                "href": "https:\/\/www.loststoriesacademy.com\/wp-json\/wp\/v2\/stm-courses"
+            }],
+            "about": [{
+                "href": "https:\/\/www.loststoriesacademy.com\/wp-json\/wp\/v2\/types\/stm-courses"
+            }],
+            "author": [{
+                "embeddable": true,
+                "href": "https:\/\/www.loststoriesacademy.com\/wp-json\/wp\/v2\/users\/108"
+            }],
+            "version-history": [{
+                "count": 0,
+                "href": "https:\/\/www.loststoriesacademy.com\/wp-json\/wp\/v2\/stm-courses\/13051\/revisions"
+            }],
+            "wp:featuredmedia": [{
+                "embeddable": true,
+                "href": "https:\/\/www.loststoriesacademy.com\/wp-json\/wp\/v2\/media\/21534"
+            }],
+            "wp:attachment": [{
+                "href": "https:\/\/www.loststoriesacademy.com\/wp-json\/wp\/v2\/media?parent=13051"
+            }],
+            "wp:term": [{
+                "taxonomy": "stm_lms_course_taxonomy",
+                "embeddable": true,
+                "href": "https:\/\/www.loststoriesacademy.com\/wp-json\/wp\/v2\/stm_lms_course_taxonomy?post=13051"
+            }],
+            "curies": [{
+                "name": "wp",
+                "href": "https:\/\/api.w.org\/{rel}",
+                "templated": true
+            }]
+        }
+    },
+    {
+        "id": 13260,
+        "date": "2021-02-17T15:50:22",
+        "date_gmt": "2021-02-17T10:20:22",
+        "guid": {
+            "rendered": "https:\/\/www.songstarter.in\/?post_type=stm-courses&#038;p=13260"
+        },
+        "modified": "2021-03-18T16:14:56",
+        "modified_gmt": "2021-03-18T10:44:56",
+        "slug": "how-to-play-the-indian-flute-part-2",
+        "status": "publish",
+        "type": "stm-courses",
+        "link": "https:\/\/www.loststoriesacademy.com\/courses\/how-to-play-the-indian-flute-part-2\/",
+        "title": {
+            "rendered": "How to Play the Indian Flute- Part 2"
+        },
+        "content": {
+            "rendered": "<p>Learn how to play the flute from scratch. This course will help you to understand the basics of playing a flute and how to train yourself using practice modules to become a seasoned flutist.<\/p>\n",
+            "protected": false
+        },
+        "excerpt": {
+            "rendered": "<p>Learn how to play the flute from scratch. This course will help you to understand the basics of playing a flute and how to train yourself using practice modules to become a seasoned flutist.<\/p>\n",
+            "protected": false
+        },
+        "author": 108,
+        "featured_media": 15982,
+        "template": "",
+        "meta": {
+            "_bbp_topic_count": 0,
+            "_bbp_reply_count": 0,
+            "_bbp_total_topic_count": 0,
+            "_bbp_total_reply_count": 0,
+            "_bbp_voice_count": 0,
+            "_bbp_anonymous_reply_count": 0,
+            "_bbp_topic_count_hidden": 0,
+            "_bbp_reply_count_hidden": 0,
+            "_bbp_forum_subforum_count": 0,
+            "spay_email": ""
+        },
+        "stm_lms_course_taxonomy": [
+            192
+        ],
+        "yoast_head": "<!-- This site is optimized with the Yoast SEO plugin v16.0.2 - https:\/\/yoast.com\/wordpress\/plugins\/seo\/ -->\n<title>How to Play the Indian Flute- Part 2 - Lost Stories Academy<\/title>\n<link rel=\"canonical\" href=\"https:\/\/www.loststoriesacademy.com\/courses\/how-to-play-the-indian-flute-part-2\/\" \/>\n<meta property=\"og:locale\" content=\"en_US\" \/>\n<meta property=\"og:type\" content=\"article\" \/>\n<meta property=\"og:title\" content=\"How to Play the Indian Flute- Part 2 - Lost Stories Academy\" \/>\n<meta property=\"og:description\" content=\"Learn how to play the flute from scratch. This course will help you to understand the basics of playing a flute and how to train yourself using practice modules to become a seasoned flutist.\" \/>\n<meta property=\"og:url\" content=\"https:\/\/www.loststoriesacademy.com\/courses\/how-to-play-the-indian-flute-part-2\/\" \/>\n<meta property=\"og:site_name\" content=\"Lost Stories Academy\" \/>\n<meta property=\"article:modified_time\" content=\"2021-03-18T10:44:56+00:00\" \/>\n<meta property=\"og:image\" content=\"https:\/\/d8skzlz85ruek.cloudfront.net\/wp-content\/uploads\/How-to-play-the-flute-2.jpg\" \/>\n\t<meta property=\"og:image:width\" content=\"800\" \/>\n\t<meta property=\"og:image:height\" content=\"600\" \/>\n<meta name=\"twitter:card\" content=\"summary_large_image\" \/>\n<script type=\"application\/ld+json\" class=\"yoast-schema-graph\">{\"@context\":\"https:\/\/schema.org\",\"@graph\":[{\"@type\":\"Organization\",\"@id\":\"https:\/\/www.loststoriesacademy.com\/#organization\",\"name\":\"Lost Stories Academy\",\"url\":\"https:\/\/www.loststoriesacademy.com\/\",\"sameAs\":[],\"logo\":{\"@type\":\"ImageObject\",\"@id\":\"https:\/\/www.loststoriesacademy.com\/#logo\",\"inLanguage\":\"en-US\",\"url\":\"https:\/\/d8skzlz85ruek.cloudfront.net\/wp-content\/uploads\/LS-banner-min.jpg\",\"width\":842,\"height\":595,\"caption\":\"Lost Stories Academy\"},\"image\":{\"@id\":\"https:\/\/www.loststoriesacademy.com\/#logo\"}},{\"@type\":\"WebSite\",\"@id\":\"https:\/\/www.loststoriesacademy.com\/#website\",\"url\":\"https:\/\/www.loststoriesacademy.com\/\",\"name\":\"Lost Stories Academy\",\"description\":\"India\\u2019s Premier DJing &amp; Music Production School\",\"publisher\":{\"@id\":\"https:\/\/www.loststoriesacademy.com\/#organization\"},\"potentialAction\":[{\"@type\":\"SearchAction\",\"target\":\"https:\/\/www.loststoriesacademy.com\/?s={search_term_string}\",\"query-input\":\"required name=search_term_string\"}],\"inLanguage\":\"en-US\"},{\"@type\":\"ImageObject\",\"@id\":\"https:\/\/www.loststoriesacademy.com\/courses\/how-to-play-the-indian-flute-part-2\/#primaryimage\",\"inLanguage\":\"en-US\",\"url\":\"https:\/\/d8skzlz85ruek.cloudfront.net\/wp-content\/uploads\/How-to-play-the-flute-2.jpg\",\"width\":800,\"height\":600},{\"@type\":\"WebPage\",\"@id\":\"https:\/\/www.loststoriesacademy.com\/courses\/how-to-play-the-indian-flute-part-2\/#webpage\",\"url\":\"https:\/\/www.loststoriesacademy.com\/courses\/how-to-play-the-indian-flute-part-2\/\",\"name\":\"How to Play the Indian Flute- Part 2 - Lost Stories Academy\",\"isPartOf\":{\"@id\":\"https:\/\/www.loststoriesacademy.com\/#website\"},\"primaryImageOfPage\":{\"@id\":\"https:\/\/www.loststoriesacademy.com\/courses\/how-to-play-the-indian-flute-part-2\/#primaryimage\"},\"datePublished\":\"2021-02-17T10:20:22+00:00\",\"dateModified\":\"2021-03-18T10:44:56+00:00\",\"breadcrumb\":{\"@id\":\"https:\/\/www.loststoriesacademy.com\/courses\/how-to-play-the-indian-flute-part-2\/#breadcrumb\"},\"inLanguage\":\"en-US\",\"potentialAction\":[{\"@type\":\"ReadAction\",\"target\":[\"https:\/\/www.loststoriesacademy.com\/courses\/how-to-play-the-indian-flute-part-2\/\"]}]},{\"@type\":\"BreadcrumbList\",\"@id\":\"https:\/\/www.loststoriesacademy.com\/courses\/how-to-play-the-indian-flute-part-2\/#breadcrumb\",\"itemListElement\":[{\"@type\":\"ListItem\",\"position\":1,\"item\":{\"@type\":\"WebPage\",\"@id\":\"https:\/\/www.loststoriesacademy.com\/\",\"url\":\"https:\/\/www.loststoriesacademy.com\/\",\"name\":\"Home\"}},{\"@type\":\"ListItem\",\"position\":2,\"item\":{\"@type\":\"WebPage\",\"@id\":\"https:\/\/www.loststoriesacademy.com\/courses\/\",\"url\":\"https:\/\/www.loststoriesacademy.com\/courses\/\",\"name\":\"Courses\"}},{\"@type\":\"ListItem\",\"position\":3,\"item\":{\"@type\":\"WebPage\",\"@id\":\"https:\/\/www.loststoriesacademy.com\/course\/instruments-courses\/\",\"url\":\"https:\/\/www.loststoriesacademy.com\/course\/instruments-courses\/\",\"name\":\"Instruments courses\"}},{\"@type\":\"ListItem\",\"position\":4,\"item\":{\"@type\":\"WebPage\",\"@id\":\"https:\/\/www.loststoriesacademy.com\/courses\/how-to-play-the-indian-flute-part-2\/\",\"url\":\"https:\/\/www.loststoriesacademy.com\/courses\/how-to-play-the-indian-flute-part-2\/\",\"name\":\"How to Play the Indian Flute- Part 2\"}}]}]}<\/script>\n<!-- \/ Yoast SEO plugin. -->",
+        "ACF": false,
+        "_links": {
+            "self": [{
+                "href": "https:\/\/www.loststoriesacademy.com\/wp-json\/wp\/v2\/stm-courses\/13260"
+            }],
+            "collection": [{
+                "href": "https:\/\/www.loststoriesacademy.com\/wp-json\/wp\/v2\/stm-courses"
+            }],
+            "about": [{
+                "href": "https:\/\/www.loststoriesacademy.com\/wp-json\/wp\/v2\/types\/stm-courses"
+            }],
+            "author": [{
+                "embeddable": true,
+                "href": "https:\/\/www.loststoriesacademy.com\/wp-json\/wp\/v2\/users\/108"
+            }],
+            "version-history": [{
+                "count": 0,
+                "href": "https:\/\/www.loststoriesacademy.com\/wp-json\/wp\/v2\/stm-courses\/13260\/revisions"
+            }],
+            "wp:featuredmedia": [{
+                "embeddable": true,
+                "href": "https:\/\/www.loststoriesacademy.com\/wp-json\/wp\/v2\/media\/15982"
+            }],
+            "wp:attachment": [{
+                "href": "https:\/\/www.loststoriesacademy.com\/wp-json\/wp\/v2\/media?parent=13260"
+            }],
+            "wp:term": [{
+                "taxonomy": "stm_lms_course_taxonomy",
+                "embeddable": true,
+                "href": "https:\/\/www.loststoriesacademy.com\/wp-json\/wp\/v2\/stm_lms_course_taxonomy?post=13260"
+            }],
+            "curies": [{
+                "name": "wp",
+                "href": "https:\/\/api.w.org\/{rel}",
+                "templated": true
+            }]
+        }
+    },
+    {
+        "id": 13246,
+        "date": "2021-02-17T16:49:31",
+        "date_gmt": "2021-02-17T11:19:31",
+        "guid": {
+            "rendered": "https:\/\/www.songstarter.in\/?post_type=stm-courses&#038;p=13246"
+        },
+        "modified": "2021-03-30T15:33:08",
+        "modified_gmt": "2021-03-30T10:03:08",
+        "slug": "how-to-play-the-indian-flute-part-1",
+        "status": "publish",
+        "type": "stm-courses",
+        "link": "https:\/\/www.loststoriesacademy.com\/courses\/how-to-play-the-indian-flute-part-1\/",
+        "title": {
+            "rendered": "How to Play the Indian Flute- Part 1"
+        },
+        "content": {
+            "rendered": "<p>Learn how to play the flute from scratch. This course will help you to understand the basics of playing a flute and how to train yourself using practice modules to become a seasoned flutist.<\/p>\n",
+            "protected": false
+        },
+        "excerpt": {
+            "rendered": "<p>Learn how to play the flute from scratch. This course will help you to understand the basics of playing a flute and how to train yourself using practice modules to become a seasoned flutist.<\/p>\n",
+            "protected": false
+        },
+        "author": 108,
+        "featured_media": 15966,
+        "template": "",
+        "meta": {
+            "_bbp_topic_count": 0,
+            "_bbp_reply_count": 0,
+            "_bbp_total_topic_count": 0,
+            "_bbp_total_reply_count": 0,
+            "_bbp_voice_count": 0,
+            "_bbp_anonymous_reply_count": 0,
+            "_bbp_topic_count_hidden": 0,
+            "_bbp_reply_count_hidden": 0,
+            "_bbp_forum_subforum_count": 0,
+            "spay_email": ""
+        },
+        "stm_lms_course_taxonomy": [
+            192
+        ],
+        "yoast_head": "<!-- This site is optimized with the Yoast SEO plugin v16.0.2 - https:\/\/yoast.com\/wordpress\/plugins\/seo\/ -->\n<title>How to Play the Indian Flute- Part 1 - Lost Stories Academy<\/title>\n<link rel=\"canonical\" href=\"https:\/\/www.loststoriesacademy.com\/courses\/how-to-play-the-indian-flute-part-1\/\" \/>\n<meta property=\"og:locale\" content=\"en_US\" \/>\n<meta property=\"og:type\" content=\"article\" \/>\n<meta property=\"og:title\" content=\"How to Play the Indian Flute- Part 1 - Lost Stories Academy\" \/>\n<meta property=\"og:description\" content=\"Learn how to play the flute from scratch. This course will help you to understand the basics of playing a flute and how to train yourself using practice modules to become a seasoned flutist.\" \/>\n<meta property=\"og:url\" content=\"https:\/\/www.loststoriesacademy.com\/courses\/how-to-play-the-indian-flute-part-1\/\" \/>\n<meta property=\"og:site_name\" content=\"Lost Stories Academy\" \/>\n<meta property=\"article:modified_time\" content=\"2021-03-30T10:03:08+00:00\" \/>\n<meta property=\"og:image\" content=\"https:\/\/d8skzlz85ruek.cloudfront.net\/wp-content\/uploads\/Flute.jpg\" \/>\n\t<meta property=\"og:image:width\" content=\"800\" \/>\n\t<meta property=\"og:image:height\" content=\"600\" \/>\n<meta name=\"twitter:card\" content=\"summary_large_image\" \/>\n<meta name=\"twitter:label1\" content=\"Est. reading time\">\n\t<meta name=\"twitter:data1\" content=\"1 minute\">\n<script type=\"application\/ld+json\" class=\"yoast-schema-graph\">{\"@context\":\"https:\/\/schema.org\",\"@graph\":[{\"@type\":\"Organization\",\"@id\":\"https:\/\/www.loststoriesacademy.com\/#organization\",\"name\":\"Lost Stories Academy\",\"url\":\"https:\/\/www.loststoriesacademy.com\/\",\"sameAs\":[],\"logo\":{\"@type\":\"ImageObject\",\"@id\":\"https:\/\/www.loststoriesacademy.com\/#logo\",\"inLanguage\":\"en-US\",\"url\":\"https:\/\/d8skzlz85ruek.cloudfront.net\/wp-content\/uploads\/LS-banner-min.jpg\",\"width\":842,\"height\":595,\"caption\":\"Lost Stories Academy\"},\"image\":{\"@id\":\"https:\/\/www.loststoriesacademy.com\/#logo\"}},{\"@type\":\"WebSite\",\"@id\":\"https:\/\/www.loststoriesacademy.com\/#website\",\"url\":\"https:\/\/www.loststoriesacademy.com\/\",\"name\":\"Lost Stories Academy\",\"description\":\"India\\u2019s Premier DJing &amp; Music Production School\",\"publisher\":{\"@id\":\"https:\/\/www.loststoriesacademy.com\/#organization\"},\"potentialAction\":[{\"@type\":\"SearchAction\",\"target\":\"https:\/\/www.loststoriesacademy.com\/?s={search_term_string}\",\"query-input\":\"required name=search_term_string\"}],\"inLanguage\":\"en-US\"},{\"@type\":\"ImageObject\",\"@id\":\"https:\/\/www.loststoriesacademy.com\/courses\/how-to-play-the-indian-flute-part-1\/#primaryimage\",\"inLanguage\":\"en-US\",\"url\":\"https:\/\/d8skzlz85ruek.cloudfront.net\/wp-content\/uploads\/Flute.jpg\",\"width\":800,\"height\":600},{\"@type\":\"WebPage\",\"@id\":\"https:\/\/www.loststoriesacademy.com\/courses\/how-to-play-the-indian-flute-part-1\/#webpage\",\"url\":\"https:\/\/www.loststoriesacademy.com\/courses\/how-to-play-the-indian-flute-part-1\/\",\"name\":\"How to Play the Indian Flute- Part 1 - Lost Stories Academy\",\"isPartOf\":{\"@id\":\"https:\/\/www.loststoriesacademy.com\/#website\"},\"primaryImageOfPage\":{\"@id\":\"https:\/\/www.loststoriesacademy.com\/courses\/how-to-play-the-indian-flute-part-1\/#primaryimage\"},\"datePublished\":\"2021-02-17T11:19:31+00:00\",\"dateModified\":\"2021-03-30T10:03:08+00:00\",\"breadcrumb\":{\"@id\":\"https:\/\/www.loststoriesacademy.com\/courses\/how-to-play-the-indian-flute-part-1\/#breadcrumb\"},\"inLanguage\":\"en-US\",\"potentialAction\":[{\"@type\":\"ReadAction\",\"target\":[\"https:\/\/www.loststoriesacademy.com\/courses\/how-to-play-the-indian-flute-part-1\/\"]}]},{\"@type\":\"BreadcrumbList\",\"@id\":\"https:\/\/www.loststoriesacademy.com\/courses\/how-to-play-the-indian-flute-part-1\/#breadcrumb\",\"itemListElement\":[{\"@type\":\"ListItem\",\"position\":1,\"item\":{\"@type\":\"WebPage\",\"@id\":\"https:\/\/www.loststoriesacademy.com\/\",\"url\":\"https:\/\/www.loststoriesacademy.com\/\",\"name\":\"Home\"}},{\"@type\":\"ListItem\",\"position\":2,\"item\":{\"@type\":\"WebPage\",\"@id\":\"https:\/\/www.loststoriesacademy.com\/courses\/\",\"url\":\"https:\/\/www.loststoriesacademy.com\/courses\/\",\"name\":\"Courses\"}},{\"@type\":\"ListItem\",\"position\":3,\"item\":{\"@type\":\"WebPage\",\"@id\":\"https:\/\/www.loststoriesacademy.com\/course\/instruments-courses\/\",\"url\":\"https:\/\/www.loststoriesacademy.com\/course\/instruments-courses\/\",\"name\":\"Instruments courses\"}},{\"@type\":\"ListItem\",\"position\":4,\"item\":{\"@type\":\"WebPage\",\"@id\":\"https:\/\/www.loststoriesacademy.com\/courses\/how-to-play-the-indian-flute-part-1\/\",\"url\":\"https:\/\/www.loststoriesacademy.com\/courses\/how-to-play-the-indian-flute-part-1\/\",\"name\":\"How to Play the Indian Flute- Part 1\"}}]}]}<\/script>\n<!-- \/ Yoast SEO plugin. -->",
+        "ACF": false,
+        "_links": {
+            "self": [{
+                "href": "https:\/\/www.loststoriesacademy.com\/wp-json\/wp\/v2\/stm-courses\/13246"
+            }],
+            "collection": [{
+                "href": "https:\/\/www.loststoriesacademy.com\/wp-json\/wp\/v2\/stm-courses"
+            }],
+            "about": [{
+                "href": "https:\/\/www.loststoriesacademy.com\/wp-json\/wp\/v2\/types\/stm-courses"
+            }],
+            "author": [{
+                "embeddable": true,
+                "href": "https:\/\/www.loststoriesacademy.com\/wp-json\/wp\/v2\/users\/108"
+            }],
+            "version-history": [{
+                "count": 0,
+                "href": "https:\/\/www.loststoriesacademy.com\/wp-json\/wp\/v2\/stm-courses\/13246\/revisions"
+            }],
+            "wp:featuredmedia": [{
+                "embeddable": true,
+                "href": "https:\/\/www.loststoriesacademy.com\/wp-json\/wp\/v2\/media\/15966"
+            }],
+            "wp:attachment": [{
+                "href": "https:\/\/www.loststoriesacademy.com\/wp-json\/wp\/v2\/media?parent=13246"
+            }],
+            "wp:term": [{
+                "taxonomy": "stm_lms_course_taxonomy",
+                "embeddable": true,
+                "href": "https:\/\/www.loststoriesacademy.com\/wp-json\/wp\/v2\/stm_lms_course_taxonomy?post=13246"
+            }],
+            "curies": [{
+                "name": "wp",
+                "href": "https:\/\/api.w.org\/{rel}",
+                "templated": true
+            }]
+        }
+    },
+    {
+        "id": 15675,
+        "date": "2021-02-17T17:31:35",
+        "date_gmt": "2021-02-17T12:01:35",
+        "guid": {
+            "rendered": "https:\/\/www.songstarter.in\/?post_type=stm-courses&#038;p=15675"
+        },
+        "modified": "2021-03-19T19:45:50",
+        "modified_gmt": "2021-03-19T14:15:50",
+        "slug": "introduction-to-music-business",
+        "status": "publish",
+        "type": "stm-courses",
+        "link": "https:\/\/www.loststoriesacademy.com\/courses\/introduction-to-music-business\/",
+        "title": {
+            "rendered": "Introduction to Music Business"
+        },
+        "content": {
+            "rendered": "<p>Learn the basic concepts of music business which will help you in understanding how to protect your song, how you can distribute it to make money, what kind of royalties you can get from your song and who can help you to collect it.<\/p>\n",
+            "protected": false
+        },
+        "excerpt": {
+            "rendered": "<p>Learn the basic concepts of music business which will help you in understanding how to protect your song, how you can distribute it to make money, what kind of royalties you can get from your song and who can help you to collect it.<\/p>\n",
+            "protected": false
+        },
+        "author": 108,
+        "featured_media": 15967,
+        "template": "",
+        "meta": {
+            "_bbp_topic_count": 0,
+            "_bbp_reply_count": 0,
+            "_bbp_total_topic_count": 0,
+            "_bbp_total_reply_count": 0,
+            "_bbp_voice_count": 0,
+            "_bbp_anonymous_reply_count": 0,
+            "_bbp_topic_count_hidden": 0,
+            "_bbp_reply_count_hidden": 0,
+            "_bbp_forum_subforum_count": 0,
+            "spay_email": ""
+        },
+        "stm_lms_course_taxonomy": [
+            193
+        ],
+        "yoast_head": "<!-- This site is optimized with the Yoast SEO plugin v16.0.2 - https:\/\/yoast.com\/wordpress\/plugins\/seo\/ -->\n<title>Introduction to Music Business - Lost Stories Academy<\/title>\n<link rel=\"canonical\" href=\"https:\/\/www.loststoriesacademy.com\/courses\/introduction-to-music-business\/\" \/>\n<meta property=\"og:locale\" content=\"en_US\" \/>\n<meta property=\"og:type\" content=\"article\" \/>\n<meta property=\"og:title\" content=\"Introduction to Music Business - Lost Stories Academy\" \/>\n<meta property=\"og:description\" content=\"Learn the basic concepts of music business which will help you in understanding how to protect your song, how you can distribute it to make money, what kind of royalties you can get from your song and who can help you to collect it.\" \/>\n<meta property=\"og:url\" content=\"https:\/\/www.loststoriesacademy.com\/courses\/introduction-to-music-business\/\" \/>\n<meta property=\"og:site_name\" content=\"Lost Stories Academy\" \/>\n<meta property=\"article:modified_time\" content=\"2021-03-19T14:15:50+00:00\" \/>\n<meta property=\"og:image\" content=\"https:\/\/d8skzlz85ruek.cloudfront.net\/wp-content\/uploads\/Introduction-to-MB.jpg\" \/>\n\t<meta property=\"og:image:width\" content=\"800\" \/>\n\t<meta property=\"og:image:height\" content=\"600\" \/>\n<meta name=\"twitter:card\" content=\"summary_large_image\" \/>\n<script type=\"application\/ld+json\" class=\"yoast-schema-graph\">{\"@context\":\"https:\/\/schema.org\",\"@graph\":[{\"@type\":\"Organization\",\"@id\":\"https:\/\/www.loststoriesacademy.com\/#organization\",\"name\":\"Lost Stories Academy\",\"url\":\"https:\/\/www.loststoriesacademy.com\/\",\"sameAs\":[],\"logo\":{\"@type\":\"ImageObject\",\"@id\":\"https:\/\/www.loststoriesacademy.com\/#logo\",\"inLanguage\":\"en-US\",\"url\":\"https:\/\/d8skzlz85ruek.cloudfront.net\/wp-content\/uploads\/LS-banner-min.jpg\",\"width\":842,\"height\":595,\"caption\":\"Lost Stories Academy\"},\"image\":{\"@id\":\"https:\/\/www.loststoriesacademy.com\/#logo\"}},{\"@type\":\"WebSite\",\"@id\":\"https:\/\/www.loststoriesacademy.com\/#website\",\"url\":\"https:\/\/www.loststoriesacademy.com\/\",\"name\":\"Lost Stories Academy\",\"description\":\"India\\u2019s Premier DJing &amp; Music Production School\",\"publisher\":{\"@id\":\"https:\/\/www.loststoriesacademy.com\/#organization\"},\"potentialAction\":[{\"@type\":\"SearchAction\",\"target\":\"https:\/\/www.loststoriesacademy.com\/?s={search_term_string}\",\"query-input\":\"required name=search_term_string\"}],\"inLanguage\":\"en-US\"},{\"@type\":\"ImageObject\",\"@id\":\"https:\/\/www.loststoriesacademy.com\/courses\/introduction-to-music-business\/#primaryimage\",\"inLanguage\":\"en-US\",\"url\":\"https:\/\/d8skzlz85ruek.cloudfront.net\/wp-content\/uploads\/Introduction-to-MB.jpg\",\"width\":800,\"height\":600},{\"@type\":\"WebPage\",\"@id\":\"https:\/\/www.loststoriesacademy.com\/courses\/introduction-to-music-business\/#webpage\",\"url\":\"https:\/\/www.loststoriesacademy.com\/courses\/introduction-to-music-business\/\",\"name\":\"Introduction to Music Business - Lost Stories Academy\",\"isPartOf\":{\"@id\":\"https:\/\/www.loststoriesacademy.com\/#website\"},\"primaryImageOfPage\":{\"@id\":\"https:\/\/www.loststoriesacademy.com\/courses\/introduction-to-music-business\/#primaryimage\"},\"datePublished\":\"2021-02-17T12:01:35+00:00\",\"dateModified\":\"2021-03-19T14:15:50+00:00\",\"breadcrumb\":{\"@id\":\"https:\/\/www.loststoriesacademy.com\/courses\/introduction-to-music-business\/#breadcrumb\"},\"inLanguage\":\"en-US\",\"potentialAction\":[{\"@type\":\"ReadAction\",\"target\":[\"https:\/\/www.loststoriesacademy.com\/courses\/introduction-to-music-business\/\"]}]},{\"@type\":\"BreadcrumbList\",\"@id\":\"https:\/\/www.loststoriesacademy.com\/courses\/introduction-to-music-business\/#breadcrumb\",\"itemListElement\":[{\"@type\":\"ListItem\",\"position\":1,\"item\":{\"@type\":\"WebPage\",\"@id\":\"https:\/\/www.loststoriesacademy.com\/\",\"url\":\"https:\/\/www.loststoriesacademy.com\/\",\"name\":\"Home\"}},{\"@type\":\"ListItem\",\"position\":2,\"item\":{\"@type\":\"WebPage\",\"@id\":\"https:\/\/www.loststoriesacademy.com\/courses\/\",\"url\":\"https:\/\/www.loststoriesacademy.com\/courses\/\",\"name\":\"Courses\"}},{\"@type\":\"ListItem\",\"position\":3,\"item\":{\"@type\":\"WebPage\",\"@id\":\"https:\/\/www.loststoriesacademy.com\/course\/music-business\/\",\"url\":\"https:\/\/www.loststoriesacademy.com\/course\/music-business\/\",\"name\":\"Music Business\"}},{\"@type\":\"ListItem\",\"position\":4,\"item\":{\"@type\":\"WebPage\",\"@id\":\"https:\/\/www.loststoriesacademy.com\/courses\/introduction-to-music-business\/\",\"url\":\"https:\/\/www.loststoriesacademy.com\/courses\/introduction-to-music-business\/\",\"name\":\"Introduction to Music Business\"}}]}]}<\/script>\n<!-- \/ Yoast SEO plugin. -->",
+        "ACF": false,
+        "_links": {
+            "self": [{
+                "href": "https:\/\/www.loststoriesacademy.com\/wp-json\/wp\/v2\/stm-courses\/15675"
+            }],
+            "collection": [{
+                "href": "https:\/\/www.loststoriesacademy.com\/wp-json\/wp\/v2\/stm-courses"
+            }],
+            "about": [{
+                "href": "https:\/\/www.loststoriesacademy.com\/wp-json\/wp\/v2\/types\/stm-courses"
+            }],
+            "author": [{
+                "embeddable": true,
+                "href": "https:\/\/www.loststoriesacademy.com\/wp-json\/wp\/v2\/users\/108"
+            }],
+            "version-history": [{
+                "count": 0,
+                "href": "https:\/\/www.loststoriesacademy.com\/wp-json\/wp\/v2\/stm-courses\/15675\/revisions"
+            }],
+            "wp:featuredmedia": [{
+                "embeddable": true,
+                "href": "https:\/\/www.loststoriesacademy.com\/wp-json\/wp\/v2\/media\/15967"
+            }],
+            "wp:attachment": [{
+                "href": "https:\/\/www.loststoriesacademy.com\/wp-json\/wp\/v2\/media?parent=15675"
+            }],
+            "wp:term": [{
+                "taxonomy": "stm_lms_course_taxonomy",
+                "embeddable": true,
+                "href": "https:\/\/www.loststoriesacademy.com\/wp-json\/wp\/v2\/stm_lms_course_taxonomy?post=15675"
+            }],
+            "curies": [{
+                "name": "wp",
+                "href": "https:\/\/api.w.org\/{rel}",
+                "templated": true
+            }]
+        }
+    },
+    {
+        "id": 15673,
+        "date": "2021-02-17T17:40:29",
+        "date_gmt": "2021-02-17T12:10:29",
+        "guid": {
+            "rendered": "https:\/\/www.songstarter.in\/?post_type=stm-courses&#038;p=15673"
+        },
+        "modified": "2021-03-19T19:45:56",
+        "modified_gmt": "2021-03-19T14:15:56",
+        "slug": "how-to-record-music-at-home",
+        "status": "publish",
+        "type": "stm-courses",
+        "link": "https:\/\/www.loststoriesacademy.com\/courses\/how-to-record-music-at-home\/",
+        "title": {
+            "rendered": "How to Record Music at Home"
+        },
+        "content": {
+            "rendered": "<p>Learn how to select the right gear to set up your own home studio with minimum amount of investment. This course will help you to know the basic requirements for recording music at home.<\/p>\n",
+            "protected": false
+        },
+        "excerpt": {
+            "rendered": "<p>Learn how to select the right gear to set up your own home studio with minimum amount of investment. This course will help you to know the basic requirements for recording music at home.<\/p>\n",
+            "protected": false
+        },
+        "author": 108,
+        "featured_media": 15969,
+        "template": "",
+        "meta": {
+            "_bbp_topic_count": 0,
+            "_bbp_reply_count": 0,
+            "_bbp_total_topic_count": 0,
+            "_bbp_total_reply_count": 0,
+            "_bbp_voice_count": 0,
+            "_bbp_anonymous_reply_count": 0,
+            "_bbp_topic_count_hidden": 0,
+            "_bbp_reply_count_hidden": 0,
+            "_bbp_forum_subforum_count": 0,
+            "spay_email": ""
+        },
+        "stm_lms_course_taxonomy": [
+            193
+        ],
+        "yoast_head": "<!-- This site is optimized with the Yoast SEO plugin v16.0.2 - https:\/\/yoast.com\/wordpress\/plugins\/seo\/ -->\n<title>How to Record Music at Home - Lost Stories Academy<\/title>\n<link rel=\"canonical\" href=\"https:\/\/www.loststoriesacademy.com\/courses\/how-to-record-music-at-home\/\" \/>\n<meta property=\"og:locale\" content=\"en_US\" \/>\n<meta property=\"og:type\" content=\"article\" \/>\n<meta property=\"og:title\" content=\"How to Record Music at Home - Lost Stories Academy\" \/>\n<meta property=\"og:description\" content=\"Learn how to select the right gear to set up your own home studio with minimum amount of investment. This course will help you to know the basic requirements for recording music at home.\" \/>\n<meta property=\"og:url\" content=\"https:\/\/www.loststoriesacademy.com\/courses\/how-to-record-music-at-home\/\" \/>\n<meta property=\"og:site_name\" content=\"Lost Stories Academy\" \/>\n<meta property=\"article:modified_time\" content=\"2021-03-19T14:15:56+00:00\" \/>\n<meta property=\"og:image\" content=\"https:\/\/d8skzlz85ruek.cloudfront.net\/wp-content\/uploads\/Record-Music.jpg\" \/>\n\t<meta property=\"og:image:width\" content=\"800\" \/>\n\t<meta property=\"og:image:height\" content=\"600\" \/>\n<meta name=\"twitter:card\" content=\"summary_large_image\" \/>\n<script type=\"application\/ld+json\" class=\"yoast-schema-graph\">{\"@context\":\"https:\/\/schema.org\",\"@graph\":[{\"@type\":\"Organization\",\"@id\":\"https:\/\/www.loststoriesacademy.com\/#organization\",\"name\":\"Lost Stories Academy\",\"url\":\"https:\/\/www.loststoriesacademy.com\/\",\"sameAs\":[],\"logo\":{\"@type\":\"ImageObject\",\"@id\":\"https:\/\/www.loststoriesacademy.com\/#logo\",\"inLanguage\":\"en-US\",\"url\":\"https:\/\/d8skzlz85ruek.cloudfront.net\/wp-content\/uploads\/LS-banner-min.jpg\",\"width\":842,\"height\":595,\"caption\":\"Lost Stories Academy\"},\"image\":{\"@id\":\"https:\/\/www.loststoriesacademy.com\/#logo\"}},{\"@type\":\"WebSite\",\"@id\":\"https:\/\/www.loststoriesacademy.com\/#website\",\"url\":\"https:\/\/www.loststoriesacademy.com\/\",\"name\":\"Lost Stories Academy\",\"description\":\"India\\u2019s Premier DJing &amp; Music Production School\",\"publisher\":{\"@id\":\"https:\/\/www.loststoriesacademy.com\/#organization\"},\"potentialAction\":[{\"@type\":\"SearchAction\",\"target\":\"https:\/\/www.loststoriesacademy.com\/?s={search_term_string}\",\"query-input\":\"required name=search_term_string\"}],\"inLanguage\":\"en-US\"},{\"@type\":\"ImageObject\",\"@id\":\"https:\/\/www.loststoriesacademy.com\/courses\/how-to-record-music-at-home\/#primaryimage\",\"inLanguage\":\"en-US\",\"url\":\"https:\/\/d8skzlz85ruek.cloudfront.net\/wp-content\/uploads\/Record-Music.jpg\",\"width\":800,\"height\":600},{\"@type\":\"WebPage\",\"@id\":\"https:\/\/www.loststoriesacademy.com\/courses\/how-to-record-music-at-home\/#webpage\",\"url\":\"https:\/\/www.loststoriesacademy.com\/courses\/how-to-record-music-at-home\/\",\"name\":\"How to Record Music at Home - Lost Stories Academy\",\"isPartOf\":{\"@id\":\"https:\/\/www.loststoriesacademy.com\/#website\"},\"primaryImageOfPage\":{\"@id\":\"https:\/\/www.loststoriesacademy.com\/courses\/how-to-record-music-at-home\/#primaryimage\"},\"datePublished\":\"2021-02-17T12:10:29+00:00\",\"dateModified\":\"2021-03-19T14:15:56+00:00\",\"breadcrumb\":{\"@id\":\"https:\/\/www.loststoriesacademy.com\/courses\/how-to-record-music-at-home\/#breadcrumb\"},\"inLanguage\":\"en-US\",\"potentialAction\":[{\"@type\":\"ReadAction\",\"target\":[\"https:\/\/www.loststoriesacademy.com\/courses\/how-to-record-music-at-home\/\"]}]},{\"@type\":\"BreadcrumbList\",\"@id\":\"https:\/\/www.loststoriesacademy.com\/courses\/how-to-record-music-at-home\/#breadcrumb\",\"itemListElement\":[{\"@type\":\"ListItem\",\"position\":1,\"item\":{\"@type\":\"WebPage\",\"@id\":\"https:\/\/www.loststoriesacademy.com\/\",\"url\":\"https:\/\/www.loststoriesacademy.com\/\",\"name\":\"Home\"}},{\"@type\":\"ListItem\",\"position\":2,\"item\":{\"@type\":\"WebPage\",\"@id\":\"https:\/\/www.loststoriesacademy.com\/courses\/\",\"url\":\"https:\/\/www.loststoriesacademy.com\/courses\/\",\"name\":\"Courses\"}},{\"@type\":\"ListItem\",\"position\":3,\"item\":{\"@type\":\"WebPage\",\"@id\":\"https:\/\/www.loststoriesacademy.com\/course\/music-business\/\",\"url\":\"https:\/\/www.loststoriesacademy.com\/course\/music-business\/\",\"name\":\"Music Business\"}},{\"@type\":\"ListItem\",\"position\":4,\"item\":{\"@type\":\"WebPage\",\"@id\":\"https:\/\/www.loststoriesacademy.com\/courses\/how-to-record-music-at-home\/\",\"url\":\"https:\/\/www.loststoriesacademy.com\/courses\/how-to-record-music-at-home\/\",\"name\":\"How to Record Music at Home\"}}]}]}<\/script>\n<!-- \/ Yoast SEO plugin. -->",
+        "ACF": false,
+        "_links": {
+            "self": [{
+                "href": "https:\/\/www.loststoriesacademy.com\/wp-json\/wp\/v2\/stm-courses\/15673"
+            }],
+            "collection": [{
+                "href": "https:\/\/www.loststoriesacademy.com\/wp-json\/wp\/v2\/stm-courses"
+            }],
+            "about": [{
+                "href": "https:\/\/www.loststoriesacademy.com\/wp-json\/wp\/v2\/types\/stm-courses"
+            }],
+            "author": [{
+                "embeddable": true,
+                "href": "https:\/\/www.loststoriesacademy.com\/wp-json\/wp\/v2\/users\/108"
+            }],
+            "version-history": [{
+                "count": 0,
+                "href": "https:\/\/www.loststoriesacademy.com\/wp-json\/wp\/v2\/stm-courses\/15673\/revisions"
+            }],
+            "wp:featuredmedia": [{
+                "embeddable": true,
+                "href": "https:\/\/www.loststoriesacademy.com\/wp-json\/wp\/v2\/media\/15969"
+            }],
+            "wp:attachment": [{
+                "href": "https:\/\/www.loststoriesacademy.com\/wp-json\/wp\/v2\/media?parent=15673"
+            }],
+            "wp:term": [{
+                "taxonomy": "stm_lms_course_taxonomy",
+                "embeddable": true,
+                "href": "https:\/\/www.loststoriesacademy.com\/wp-json\/wp\/v2\/stm_lms_course_taxonomy?post=15673"
+            }],
+            "curies": [{
+                "name": "wp",
+                "href": "https:\/\/api.w.org\/{rel}",
+                "templated": true
+            }]
+        }
+    },
+    {
+        "id": 13355,
+        "date": "2021-02-18T15:34:39",
+        "date_gmt": "2021-02-18T10:04:39",
+        "guid": {
+            "rendered": "https:\/\/www.songstarter.in\/?post_type=stm-courses&#038;p=13355"
+        },
+        "modified": "2021-03-18T16:14:56",
+        "modified_gmt": "2021-03-18T10:44:56",
+        "slug": "introduction-to-audio-part-2",
+        "status": "publish",
+        "type": "stm-courses",
+        "link": "https:\/\/www.loststoriesacademy.com\/courses\/introduction-to-audio-part-2\/",
+        "title": {
+            "rendered": "Studio Protocols"
+        },
+        "content": {
+            "rendered": "<p>This module will introduce to the properties, physics and behavior of sound and also about audio.<br \/>\nThe module will also talk about different psychoacoustics and much more.<\/p>\n",
+            "protected": false
+        },
+        "excerpt": {
+            "rendered": "<p>This module will introduce to the properties, physics and behavior of sound and also about audio. The module will also talk about different psychoacoustics and much more.<\/p>\n",
+            "protected": false
+        },
+        "author": 108,
+        "featured_media": 15970,
+        "template": "",
+        "meta": {
+            "_bbp_topic_count": 0,
+            "_bbp_reply_count": 0,
+            "_bbp_total_topic_count": 0,
+            "_bbp_total_reply_count": 0,
+            "_bbp_voice_count": 0,
+            "_bbp_anonymous_reply_count": 0,
+            "_bbp_topic_count_hidden": 0,
+            "_bbp_reply_count_hidden": 0,
+            "_bbp_forum_subforum_count": 0,
+            "spay_email": ""
+        },
+        "stm_lms_course_taxonomy": [
+            194
+        ],
+        "yoast_head": "<!-- This site is optimized with the Yoast SEO plugin v16.0.2 - https:\/\/yoast.com\/wordpress\/plugins\/seo\/ -->\n<title>Studio Protocols - Lost Stories Academy<\/title>\n<link rel=\"canonical\" href=\"https:\/\/www.loststoriesacademy.com\/courses\/introduction-to-audio-part-2\/\" \/>\n<meta property=\"og:locale\" content=\"en_US\" \/>\n<meta property=\"og:type\" content=\"article\" \/>\n<meta property=\"og:title\" content=\"Studio Protocols - Lost Stories Academy\" \/>\n<meta property=\"og:description\" content=\"This module will introduce to the properties, physics and behavior of sound and also about audio. The module will also talk about different psychoacoustics and much more.\" \/>\n<meta property=\"og:url\" content=\"https:\/\/www.loststoriesacademy.com\/courses\/introduction-to-audio-part-2\/\" \/>\n<meta property=\"og:site_name\" content=\"Lost Stories Academy\" \/>\n<meta property=\"article:modified_time\" content=\"2021-03-18T10:44:56+00:00\" \/>\n<meta property=\"og:image\" content=\"https:\/\/d8skzlz85ruek.cloudfront.net\/wp-content\/uploads\/Studio-Protocols-1.jpg\" \/>\n\t<meta property=\"og:image:width\" content=\"800\" \/>\n\t<meta property=\"og:image:height\" content=\"600\" \/>\n<meta name=\"twitter:card\" content=\"summary_large_image\" \/>\n<script type=\"application\/ld+json\" class=\"yoast-schema-graph\">{\"@context\":\"https:\/\/schema.org\",\"@graph\":[{\"@type\":\"Organization\",\"@id\":\"https:\/\/www.loststoriesacademy.com\/#organization\",\"name\":\"Lost Stories Academy\",\"url\":\"https:\/\/www.loststoriesacademy.com\/\",\"sameAs\":[],\"logo\":{\"@type\":\"ImageObject\",\"@id\":\"https:\/\/www.loststoriesacademy.com\/#logo\",\"inLanguage\":\"en-US\",\"url\":\"https:\/\/d8skzlz85ruek.cloudfront.net\/wp-content\/uploads\/LS-banner-min.jpg\",\"width\":842,\"height\":595,\"caption\":\"Lost Stories Academy\"},\"image\":{\"@id\":\"https:\/\/www.loststoriesacademy.com\/#logo\"}},{\"@type\":\"WebSite\",\"@id\":\"https:\/\/www.loststoriesacademy.com\/#website\",\"url\":\"https:\/\/www.loststoriesacademy.com\/\",\"name\":\"Lost Stories Academy\",\"description\":\"India\\u2019s Premier DJing &amp; Music Production School\",\"publisher\":{\"@id\":\"https:\/\/www.loststoriesacademy.com\/#organization\"},\"potentialAction\":[{\"@type\":\"SearchAction\",\"target\":\"https:\/\/www.loststoriesacademy.com\/?s={search_term_string}\",\"query-input\":\"required name=search_term_string\"}],\"inLanguage\":\"en-US\"},{\"@type\":\"ImageObject\",\"@id\":\"https:\/\/www.loststoriesacademy.com\/courses\/introduction-to-audio-part-2\/#primaryimage\",\"inLanguage\":\"en-US\",\"url\":\"https:\/\/d8skzlz85ruek.cloudfront.net\/wp-content\/uploads\/Studio-Protocols-1.jpg\",\"width\":800,\"height\":600},{\"@type\":\"WebPage\",\"@id\":\"https:\/\/www.loststoriesacademy.com\/courses\/introduction-to-audio-part-2\/#webpage\",\"url\":\"https:\/\/www.loststoriesacademy.com\/courses\/introduction-to-audio-part-2\/\",\"name\":\"Studio Protocols - Lost Stories Academy\",\"isPartOf\":{\"@id\":\"https:\/\/www.loststoriesacademy.com\/#website\"},\"primaryImageOfPage\":{\"@id\":\"https:\/\/www.loststoriesacademy.com\/courses\/introduction-to-audio-part-2\/#primaryimage\"},\"datePublished\":\"2021-02-18T10:04:39+00:00\",\"dateModified\":\"2021-03-18T10:44:56+00:00\",\"breadcrumb\":{\"@id\":\"https:\/\/www.loststoriesacademy.com\/courses\/introduction-to-audio-part-2\/#breadcrumb\"},\"inLanguage\":\"en-US\",\"potentialAction\":[{\"@type\":\"ReadAction\",\"target\":[\"https:\/\/www.loststoriesacademy.com\/courses\/introduction-to-audio-part-2\/\"]}]},{\"@type\":\"BreadcrumbList\",\"@id\":\"https:\/\/www.loststoriesacademy.com\/courses\/introduction-to-audio-part-2\/#breadcrumb\",\"itemListElement\":[{\"@type\":\"ListItem\",\"position\":1,\"item\":{\"@type\":\"WebPage\",\"@id\":\"https:\/\/www.loststoriesacademy.com\/\",\"url\":\"https:\/\/www.loststoriesacademy.com\/\",\"name\":\"Home\"}},{\"@type\":\"ListItem\",\"position\":2,\"item\":{\"@type\":\"WebPage\",\"@id\":\"https:\/\/www.loststoriesacademy.com\/courses\/\",\"url\":\"https:\/\/www.loststoriesacademy.com\/courses\/\",\"name\":\"Courses\"}},{\"@type\":\"ListItem\",\"position\":3,\"item\":{\"@type\":\"WebPage\",\"@id\":\"https:\/\/www.loststoriesacademy.com\/course\/audio-engineering\/\",\"url\":\"https:\/\/www.loststoriesacademy.com\/course\/audio-engineering\/\",\"name\":\"Audio Engineering\"}},{\"@type\":\"ListItem\",\"position\":4,\"item\":{\"@type\":\"WebPage\",\"@id\":\"https:\/\/www.loststoriesacademy.com\/courses\/introduction-to-audio-part-2\/\",\"url\":\"https:\/\/www.loststoriesacademy.com\/courses\/introduction-to-audio-part-2\/\",\"name\":\"Studio Protocols\"}}]}]}<\/script>\n<!-- \/ Yoast SEO plugin. -->",
+        "ACF": false,
+        "_links": {
+            "self": [{
+                "href": "https:\/\/www.loststoriesacademy.com\/wp-json\/wp\/v2\/stm-courses\/13355"
+            }],
+            "collection": [{
+                "href": "https:\/\/www.loststoriesacademy.com\/wp-json\/wp\/v2\/stm-courses"
+            }],
+            "about": [{
+                "href": "https:\/\/www.loststoriesacademy.com\/wp-json\/wp\/v2\/types\/stm-courses"
+            }],
+            "author": [{
+                "embeddable": true,
+                "href": "https:\/\/www.loststoriesacademy.com\/wp-json\/wp\/v2\/users\/108"
+            }],
+            "version-history": [{
+                "count": 0,
+                "href": "https:\/\/www.loststoriesacademy.com\/wp-json\/wp\/v2\/stm-courses\/13355\/revisions"
+            }],
+            "wp:featuredmedia": [{
+                "embeddable": true,
+                "href": "https:\/\/www.loststoriesacademy.com\/wp-json\/wp\/v2\/media\/15970"
+            }],
+            "wp:attachment": [{
+                "href": "https:\/\/www.loststoriesacademy.com\/wp-json\/wp\/v2\/media?parent=13355"
+            }],
+            "wp:term": [{
+                "taxonomy": "stm_lms_course_taxonomy",
+                "embeddable": true,
+                "href": "https:\/\/www.loststoriesacademy.com\/wp-json\/wp\/v2\/stm_lms_course_taxonomy?post=13355"
+            }],
+            "curies": [{
+                "name": "wp",
+                "href": "https:\/\/api.w.org\/{rel}",
+                "templated": true
+            }]
+        }
+    },
+    {
+        "id": 13313,
+        "date": "2021-02-18T15:35:31",
+        "date_gmt": "2021-02-18T10:05:31",
+        "guid": {
+            "rendered": "https:\/\/www.songstarter.in\/?post_type=stm-courses&#038;p=13313"
+        },
+        "modified": "2021-03-18T19:18:34",
+        "modified_gmt": "2021-03-18T13:48:34",
+        "slug": "introduction-to-audio",
+        "status": "publish",
+        "type": "stm-courses",
+        "link": "https:\/\/www.loststoriesacademy.com\/courses\/introduction-to-audio\/",
+        "title": {
+            "rendered": "Introduction to Audio"
+        },
+        "content": {
+            "rendered": "<p>This module will introduce to the properties, physics and behavior of sound and also about audio.<br \/>\nThe module will also talk about different psychoacoustics and much more.<\/p>\n",
+            "protected": false
+        },
+        "excerpt": {
+            "rendered": "<p>This module will introduce to the properties, physics and behavior of sound and also about audio. The module will also talk about different psychoacoustics and much more.<\/p>\n",
+            "protected": false
+        },
+        "author": 108,
+        "featured_media": 15968,
+        "template": "",
+        "meta": {
+            "_bbp_topic_count": 0,
+            "_bbp_reply_count": 0,
+            "_bbp_total_topic_count": 0,
+            "_bbp_total_reply_count": 0,
+            "_bbp_voice_count": 0,
+            "_bbp_anonymous_reply_count": 0,
+            "_bbp_topic_count_hidden": 0,
+            "_bbp_reply_count_hidden": 0,
+            "_bbp_forum_subforum_count": 0,
+            "spay_email": ""
+        },
+        "stm_lms_course_taxonomy": [
+            194
+        ],
+        "yoast_head": "<!-- This site is optimized with the Yoast SEO plugin v16.0.2 - https:\/\/yoast.com\/wordpress\/plugins\/seo\/ -->\n<title>Introduction to Audio - Lost Stories Academy<\/title>\n<link rel=\"canonical\" href=\"https:\/\/www.loststoriesacademy.com\/courses\/introduction-to-audio\/\" \/>\n<meta property=\"og:locale\" content=\"en_US\" \/>\n<meta property=\"og:type\" content=\"article\" \/>\n<meta property=\"og:title\" content=\"Introduction to Audio - Lost Stories Academy\" \/>\n<meta property=\"og:description\" content=\"This module will introduce to the properties, physics and behavior of sound and also about audio. The module will also talk about different psychoacoustics and much more.\" \/>\n<meta property=\"og:url\" content=\"https:\/\/www.loststoriesacademy.com\/courses\/introduction-to-audio\/\" \/>\n<meta property=\"og:site_name\" content=\"Lost Stories Academy\" \/>\n<meta property=\"article:modified_time\" content=\"2021-03-18T13:48:34+00:00\" \/>\n<meta property=\"og:image\" content=\"https:\/\/d8skzlz85ruek.cloudfront.net\/wp-content\/uploads\/Introduction-to-AE.jpg\" \/>\n\t<meta property=\"og:image:width\" content=\"800\" \/>\n\t<meta property=\"og:image:height\" content=\"600\" \/>\n<meta name=\"twitter:card\" content=\"summary_large_image\" \/>\n<script type=\"application\/ld+json\" class=\"yoast-schema-graph\">{\"@context\":\"https:\/\/schema.org\",\"@graph\":[{\"@type\":\"Organization\",\"@id\":\"https:\/\/www.loststoriesacademy.com\/#organization\",\"name\":\"Lost Stories Academy\",\"url\":\"https:\/\/www.loststoriesacademy.com\/\",\"sameAs\":[],\"logo\":{\"@type\":\"ImageObject\",\"@id\":\"https:\/\/www.loststoriesacademy.com\/#logo\",\"inLanguage\":\"en-US\",\"url\":\"https:\/\/d8skzlz85ruek.cloudfront.net\/wp-content\/uploads\/LS-banner-min.jpg\",\"width\":842,\"height\":595,\"caption\":\"Lost Stories Academy\"},\"image\":{\"@id\":\"https:\/\/www.loststoriesacademy.com\/#logo\"}},{\"@type\":\"WebSite\",\"@id\":\"https:\/\/www.loststoriesacademy.com\/#website\",\"url\":\"https:\/\/www.loststoriesacademy.com\/\",\"name\":\"Lost Stories Academy\",\"description\":\"India\\u2019s Premier DJing &amp; Music Production School\",\"publisher\":{\"@id\":\"https:\/\/www.loststoriesacademy.com\/#organization\"},\"potentialAction\":[{\"@type\":\"SearchAction\",\"target\":\"https:\/\/www.loststoriesacademy.com\/?s={search_term_string}\",\"query-input\":\"required name=search_term_string\"}],\"inLanguage\":\"en-US\"},{\"@type\":\"ImageObject\",\"@id\":\"https:\/\/www.loststoriesacademy.com\/courses\/introduction-to-audio\/#primaryimage\",\"inLanguage\":\"en-US\",\"url\":\"https:\/\/d8skzlz85ruek.cloudfront.net\/wp-content\/uploads\/Introduction-to-AE.jpg\",\"width\":800,\"height\":600},{\"@type\":\"WebPage\",\"@id\":\"https:\/\/www.loststoriesacademy.com\/courses\/introduction-to-audio\/#webpage\",\"url\":\"https:\/\/www.loststoriesacademy.com\/courses\/introduction-to-audio\/\",\"name\":\"Introduction to Audio - Lost Stories Academy\",\"isPartOf\":{\"@id\":\"https:\/\/www.loststoriesacademy.com\/#website\"},\"primaryImageOfPage\":{\"@id\":\"https:\/\/www.loststoriesacademy.com\/courses\/introduction-to-audio\/#primaryimage\"},\"datePublished\":\"2021-02-18T10:05:31+00:00\",\"dateModified\":\"2021-03-18T13:48:34+00:00\",\"breadcrumb\":{\"@id\":\"https:\/\/www.loststoriesacademy.com\/courses\/introduction-to-audio\/#breadcrumb\"},\"inLanguage\":\"en-US\",\"potentialAction\":[{\"@type\":\"ReadAction\",\"target\":[\"https:\/\/www.loststoriesacademy.com\/courses\/introduction-to-audio\/\"]}]},{\"@type\":\"BreadcrumbList\",\"@id\":\"https:\/\/www.loststoriesacademy.com\/courses\/introduction-to-audio\/#breadcrumb\",\"itemListElement\":[{\"@type\":\"ListItem\",\"position\":1,\"item\":{\"@type\":\"WebPage\",\"@id\":\"https:\/\/www.loststoriesacademy.com\/\",\"url\":\"https:\/\/www.loststoriesacademy.com\/\",\"name\":\"Home\"}},{\"@type\":\"ListItem\",\"position\":2,\"item\":{\"@type\":\"WebPage\",\"@id\":\"https:\/\/www.loststoriesacademy.com\/courses\/\",\"url\":\"https:\/\/www.loststoriesacademy.com\/courses\/\",\"name\":\"Courses\"}},{\"@type\":\"ListItem\",\"position\":3,\"item\":{\"@type\":\"WebPage\",\"@id\":\"https:\/\/www.loststoriesacademy.com\/course\/audio-engineering\/\",\"url\":\"https:\/\/www.loststoriesacademy.com\/course\/audio-engineering\/\",\"name\":\"Audio Engineering\"}},{\"@type\":\"ListItem\",\"position\":4,\"item\":{\"@type\":\"WebPage\",\"@id\":\"https:\/\/www.loststoriesacademy.com\/courses\/introduction-to-audio\/\",\"url\":\"https:\/\/www.loststoriesacademy.com\/courses\/introduction-to-audio\/\",\"name\":\"Introduction to Audio\"}}]}]}<\/script>\n<!-- \/ Yoast SEO plugin. -->",
+        "ACF": false,
+        "_links": {
+            "self": [{
+                "href": "https:\/\/www.loststoriesacademy.com\/wp-json\/wp\/v2\/stm-courses\/13313"
+            }],
+            "collection": [{
+                "href": "https:\/\/www.loststoriesacademy.com\/wp-json\/wp\/v2\/stm-courses"
+            }],
+            "about": [{
+                "href": "https:\/\/www.loststoriesacademy.com\/wp-json\/wp\/v2\/types\/stm-courses"
+            }],
+            "author": [{
+                "embeddable": true,
+                "href": "https:\/\/www.loststoriesacademy.com\/wp-json\/wp\/v2\/users\/108"
+            }],
+            "version-history": [{
+                "count": 0,
+                "href": "https:\/\/www.loststoriesacademy.com\/wp-json\/wp\/v2\/stm-courses\/13313\/revisions"
+            }],
+            "wp:featuredmedia": [{
+                "embeddable": true,
+                "href": "https:\/\/www.loststoriesacademy.com\/wp-json\/wp\/v2\/media\/15968"
+            }],
+            "wp:attachment": [{
+                "href": "https:\/\/www.loststoriesacademy.com\/wp-json\/wp\/v2\/media?parent=13313"
+            }],
+            "wp:term": [{
+                "taxonomy": "stm_lms_course_taxonomy",
+                "embeddable": true,
+                "href": "https:\/\/www.loststoriesacademy.com\/wp-json\/wp\/v2\/stm_lms_course_taxonomy?post=13313"
+            }],
+            "curies": [{
+                "name": "wp",
+                "href": "https:\/\/api.w.org\/{rel}",
+                "templated": true
+            }]
+        }
+    }
+]

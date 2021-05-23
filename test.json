@@ -1,0 +1,491 @@
+[{
+        "id": 10770,
+        "date": "2021-01-10T13:30:24",
+        "date_gmt": "2021-01-10T08:00:24",
+        "guid": {
+            "rendered": "http:\/\/rohitd46.sg-host.com\/?post_type=forum&#038;p=10770"
+        },
+        "modified": "2021-02-26T14:47:32",
+        "modified_gmt": "2021-02-26T09:17:32",
+        "slug": "general",
+        "status": "publish",
+        "type": "forum",
+        "link": "https:\/\/www.loststoriesacademy.com\/forums\/forum\/general\/",
+        "title": {
+            "rendered": "General"
+        },
+        "content": {
+            "rendered": "",
+            "protected": false
+        },
+        "featured_media": 0,
+        "parent": 0,
+        "template": "",
+        "yoast_head": "<!-- This site is optimized with the Yoast SEO plugin v16.0.2 - https:\/\/yoast.com\/wordpress\/plugins\/seo\/ -->\n<title>General - Lost Stories Academy<\/title>\n<link rel=\"canonical\" href=\"https:\/\/www.loststoriesacademy.com\/forums\/forum\/general\/\" \/>\n<meta property=\"og:locale\" content=\"en_US\" \/>\n<meta property=\"og:type\" content=\"article\" \/>\n<meta property=\"og:title\" content=\"General - Lost Stories Academy\" \/>\n<meta property=\"og:url\" content=\"https:\/\/www.loststoriesacademy.com\/forums\/forum\/general\/\" \/>\n<meta property=\"og:site_name\" content=\"Lost Stories Academy\" \/>\n<meta property=\"article:modified_time\" content=\"2021-02-26T09:17:32+00:00\" \/>\n<meta name=\"twitter:card\" content=\"summary_large_image\" \/>\n<script type=\"application\/ld+json\" class=\"yoast-schema-graph\">{\"@context\":\"https:\/\/schema.org\",\"@graph\":[{\"@type\":\"Organization\",\"@id\":\"https:\/\/www.loststoriesacademy.com\/#organization\",\"name\":\"Lost Stories Academy\",\"url\":\"https:\/\/www.loststoriesacademy.com\/\",\"sameAs\":[],\"logo\":{\"@type\":\"ImageObject\",\"@id\":\"https:\/\/www.loststoriesacademy.com\/#logo\",\"inLanguage\":\"en-US\",\"url\":\"https:\/\/d8skzlz85ruek.cloudfront.net\/wp-content\/uploads\/LS-banner-min.jpg\",\"width\":842,\"height\":595,\"caption\":\"Lost Stories Academy\"},\"image\":{\"@id\":\"https:\/\/www.loststoriesacademy.com\/#logo\"}},{\"@type\":\"WebSite\",\"@id\":\"https:\/\/www.loststoriesacademy.com\/#website\",\"url\":\"https:\/\/www.loststoriesacademy.com\/\",\"name\":\"Lost Stories Academy\",\"description\":\"India\\u2019s Premier DJing &amp; Music Production School\",\"publisher\":{\"@id\":\"https:\/\/www.loststoriesacademy.com\/#organization\"},\"potentialAction\":[{\"@type\":\"SearchAction\",\"target\":\"https:\/\/www.loststoriesacademy.com\/?s={search_term_string}\",\"query-input\":\"required name=search_term_string\"}],\"inLanguage\":\"en-US\"},{\"@type\":\"WebPage\",\"@id\":\"https:\/\/www.loststoriesacademy.com\/forums\/forum\/general\/#webpage\",\"url\":\"https:\/\/www.loststoriesacademy.com\/forums\/forum\/general\/\",\"name\":\"General - Lost Stories Academy\",\"isPartOf\":{\"@id\":\"https:\/\/www.loststoriesacademy.com\/#website\"},\"datePublished\":\"2021-01-10T08:00:24+00:00\",\"dateModified\":\"2021-02-26T09:17:32+00:00\",\"breadcrumb\":{\"@id\":\"https:\/\/www.loststoriesacademy.com\/forums\/forum\/general\/#breadcrumb\"},\"inLanguage\":\"en-US\",\"potentialAction\":[{\"@type\":\"ReadAction\",\"target\":[\"https:\/\/www.loststoriesacademy.com\/forums\/forum\/general\/\"]}]},{\"@type\":\"BreadcrumbList\",\"@id\":\"https:\/\/www.loststoriesacademy.com\/forums\/forum\/general\/#breadcrumb\",\"itemListElement\":[{\"@type\":\"ListItem\",\"position\":1,\"item\":{\"@type\":\"WebPage\",\"@id\":\"https:\/\/www.loststoriesacademy.com\/\",\"url\":\"https:\/\/www.loststoriesacademy.com\/\",\"name\":\"Home\"}},{\"@type\":\"ListItem\",\"position\":2,\"item\":{\"@type\":\"WebPage\",\"@id\":\"https:\/\/www.loststoriesacademy.com\/forums\/\",\"url\":\"https:\/\/www.loststoriesacademy.com\/forums\/\",\"name\":\"Forums\"}},{\"@type\":\"ListItem\",\"position\":3,\"item\":{\"@type\":\"WebPage\",\"@id\":\"https:\/\/www.loststoriesacademy.com\/forums\/forum\/general\/\",\"url\":\"https:\/\/www.loststoriesacademy.com\/forums\/forum\/general\/\",\"name\":\"General\"}}]}]}<\/script>\n<!-- \/ Yoast SEO plugin. -->",
+        "ACF": false,
+        "_links": {
+            "self": [{
+                "href": "https:\/\/www.loststoriesacademy.com\/wp-json\/wp\/v2\/forum\/10770"
+            }],
+            "collection": [{
+                "href": "https:\/\/www.loststoriesacademy.com\/wp-json\/wp\/v2\/forum"
+            }],
+            "about": [{
+                "href": "https:\/\/www.loststoriesacademy.com\/wp-json\/wp\/v2\/types\/forum"
+            }],
+            "version-history": [{
+                "count": 0,
+                "href": "https:\/\/www.loststoriesacademy.com\/wp-json\/wp\/v2\/forum\/10770\/revisions"
+            }],
+            "wp:attachment": [{
+                "href": "https:\/\/www.loststoriesacademy.com\/wp-json\/wp\/v2\/media?parent=10770"
+            }],
+            "curies": [{
+                "name": "wp",
+                "href": "https:\/\/api.w.org\/{rel}",
+                "templated": true
+            }]
+        }
+    },
+    {
+        "id": 10772,
+        "date": "2021-01-10T13:31:11",
+        "date_gmt": "2021-01-10T08:01:11",
+        "guid": {
+            "rendered": "http:\/\/rohitd46.sg-host.com\/?post_type=forum&#038;p=10772"
+        },
+        "modified": "2021-02-26T14:47:32",
+        "modified_gmt": "2021-02-26T09:17:32",
+        "slug": "music-production-5",
+        "status": "publish",
+        "type": "forum",
+        "link": "https:\/\/www.loststoriesacademy.com\/forums\/forum\/music-production-5\/",
+        "title": {
+            "rendered": "Music Production"
+        },
+        "content": {
+            "rendered": "",
+            "protected": false
+        },
+        "featured_media": 0,
+        "parent": 0,
+        "template": "",
+        "yoast_head": "<!-- This site is optimized with the Yoast SEO plugin v16.0.2 - https:\/\/yoast.com\/wordpress\/plugins\/seo\/ -->\n<title>Music Production - Lost Stories Academy<\/title>\n<link rel=\"canonical\" href=\"https:\/\/www.loststoriesacademy.com\/forums\/forum\/music-production-5\/\" \/>\n<meta property=\"og:locale\" content=\"en_US\" \/>\n<meta property=\"og:type\" content=\"article\" \/>\n<meta property=\"og:title\" content=\"Music Production - Lost Stories Academy\" \/>\n<meta property=\"og:url\" content=\"https:\/\/www.loststoriesacademy.com\/forums\/forum\/music-production-5\/\" \/>\n<meta property=\"og:site_name\" content=\"Lost Stories Academy\" \/>\n<meta property=\"article:modified_time\" content=\"2021-02-26T09:17:32+00:00\" \/>\n<meta name=\"twitter:card\" content=\"summary_large_image\" \/>\n<script type=\"application\/ld+json\" class=\"yoast-schema-graph\">{\"@context\":\"https:\/\/schema.org\",\"@graph\":[{\"@type\":\"Organization\",\"@id\":\"https:\/\/www.loststoriesacademy.com\/#organization\",\"name\":\"Lost Stories Academy\",\"url\":\"https:\/\/www.loststoriesacademy.com\/\",\"sameAs\":[],\"logo\":{\"@type\":\"ImageObject\",\"@id\":\"https:\/\/www.loststoriesacademy.com\/#logo\",\"inLanguage\":\"en-US\",\"url\":\"https:\/\/d8skzlz85ruek.cloudfront.net\/wp-content\/uploads\/LS-banner-min.jpg\",\"width\":842,\"height\":595,\"caption\":\"Lost Stories Academy\"},\"image\":{\"@id\":\"https:\/\/www.loststoriesacademy.com\/#logo\"}},{\"@type\":\"WebSite\",\"@id\":\"https:\/\/www.loststoriesacademy.com\/#website\",\"url\":\"https:\/\/www.loststoriesacademy.com\/\",\"name\":\"Lost Stories Academy\",\"description\":\"India\\u2019s Premier DJing &amp; Music Production School\",\"publisher\":{\"@id\":\"https:\/\/www.loststoriesacademy.com\/#organization\"},\"potentialAction\":[{\"@type\":\"SearchAction\",\"target\":\"https:\/\/www.loststoriesacademy.com\/?s={search_term_string}\",\"query-input\":\"required name=search_term_string\"}],\"inLanguage\":\"en-US\"},{\"@type\":\"WebPage\",\"@id\":\"https:\/\/www.loststoriesacademy.com\/forums\/forum\/music-production-5\/#webpage\",\"url\":\"https:\/\/www.loststoriesacademy.com\/forums\/forum\/music-production-5\/\",\"name\":\"Music Production - Lost Stories Academy\",\"isPartOf\":{\"@id\":\"https:\/\/www.loststoriesacademy.com\/#website\"},\"datePublished\":\"2021-01-10T08:01:11+00:00\",\"dateModified\":\"2021-02-26T09:17:32+00:00\",\"breadcrumb\":{\"@id\":\"https:\/\/www.loststoriesacademy.com\/forums\/forum\/music-production-5\/#breadcrumb\"},\"inLanguage\":\"en-US\",\"potentialAction\":[{\"@type\":\"ReadAction\",\"target\":[\"https:\/\/www.loststoriesacademy.com\/forums\/forum\/music-production-5\/\"]}]},{\"@type\":\"BreadcrumbList\",\"@id\":\"https:\/\/www.loststoriesacademy.com\/forums\/forum\/music-production-5\/#breadcrumb\",\"itemListElement\":[{\"@type\":\"ListItem\",\"position\":1,\"item\":{\"@type\":\"WebPage\",\"@id\":\"https:\/\/www.loststoriesacademy.com\/\",\"url\":\"https:\/\/www.loststoriesacademy.com\/\",\"name\":\"Home\"}},{\"@type\":\"ListItem\",\"position\":2,\"item\":{\"@type\":\"WebPage\",\"@id\":\"https:\/\/www.loststoriesacademy.com\/forums\/\",\"url\":\"https:\/\/www.loststoriesacademy.com\/forums\/\",\"name\":\"Forums\"}},{\"@type\":\"ListItem\",\"position\":3,\"item\":{\"@type\":\"WebPage\",\"@id\":\"https:\/\/www.loststoriesacademy.com\/forums\/forum\/music-production-5\/\",\"url\":\"https:\/\/www.loststoriesacademy.com\/forums\/forum\/music-production-5\/\",\"name\":\"Music Production\"}}]}]}<\/script>\n<!-- \/ Yoast SEO plugin. -->",
+        "ACF": false,
+        "_links": {
+            "self": [{
+                "href": "https:\/\/www.loststoriesacademy.com\/wp-json\/wp\/v2\/forum\/10772"
+            }],
+            "collection": [{
+                "href": "https:\/\/www.loststoriesacademy.com\/wp-json\/wp\/v2\/forum"
+            }],
+            "about": [{
+                "href": "https:\/\/www.loststoriesacademy.com\/wp-json\/wp\/v2\/types\/forum"
+            }],
+            "version-history": [{
+                "count": 0,
+                "href": "https:\/\/www.loststoriesacademy.com\/wp-json\/wp\/v2\/forum\/10772\/revisions"
+            }],
+            "wp:attachment": [{
+                "href": "https:\/\/www.loststoriesacademy.com\/wp-json\/wp\/v2\/media?parent=10772"
+            }],
+            "curies": [{
+                "name": "wp",
+                "href": "https:\/\/api.w.org\/{rel}",
+                "templated": true
+            }]
+        }
+    },
+    {
+        "id": 10777,
+        "date": "2021-01-10T13:37:26",
+        "date_gmt": "2021-01-10T08:07:26",
+        "guid": {
+            "rendered": "http:\/\/rohitd46.sg-host.com\/?post_type=forum&#038;p=10777"
+        },
+        "modified": "2021-02-26T14:47:32",
+        "modified_gmt": "2021-02-26T09:17:32",
+        "slug": "mixing-and-mastering-4",
+        "status": "publish",
+        "type": "forum",
+        "link": "https:\/\/www.loststoriesacademy.com\/forums\/forum\/mixing-and-mastering-4\/",
+        "title": {
+            "rendered": "Mixing and Mastering"
+        },
+        "content": {
+            "rendered": "",
+            "protected": false
+        },
+        "featured_media": 0,
+        "parent": 0,
+        "template": "",
+        "yoast_head": "<!-- This site is optimized with the Yoast SEO plugin v16.0.2 - https:\/\/yoast.com\/wordpress\/plugins\/seo\/ -->\n<title>Mixing and Mastering - Lost Stories Academy<\/title>\n<link rel=\"canonical\" href=\"https:\/\/www.loststoriesacademy.com\/forums\/forum\/mixing-and-mastering-4\/\" \/>\n<meta property=\"og:locale\" content=\"en_US\" \/>\n<meta property=\"og:type\" content=\"article\" \/>\n<meta property=\"og:title\" content=\"Mixing and Mastering - Lost Stories Academy\" \/>\n<meta property=\"og:url\" content=\"https:\/\/www.loststoriesacademy.com\/forums\/forum\/mixing-and-mastering-4\/\" \/>\n<meta property=\"og:site_name\" content=\"Lost Stories Academy\" \/>\n<meta property=\"article:modified_time\" content=\"2021-02-26T09:17:32+00:00\" \/>\n<meta name=\"twitter:card\" content=\"summary_large_image\" \/>\n<script type=\"application\/ld+json\" class=\"yoast-schema-graph\">{\"@context\":\"https:\/\/schema.org\",\"@graph\":[{\"@type\":\"Organization\",\"@id\":\"https:\/\/www.loststoriesacademy.com\/#organization\",\"name\":\"Lost Stories Academy\",\"url\":\"https:\/\/www.loststoriesacademy.com\/\",\"sameAs\":[],\"logo\":{\"@type\":\"ImageObject\",\"@id\":\"https:\/\/www.loststoriesacademy.com\/#logo\",\"inLanguage\":\"en-US\",\"url\":\"https:\/\/d8skzlz85ruek.cloudfront.net\/wp-content\/uploads\/LS-banner-min.jpg\",\"width\":842,\"height\":595,\"caption\":\"Lost Stories Academy\"},\"image\":{\"@id\":\"https:\/\/www.loststoriesacademy.com\/#logo\"}},{\"@type\":\"WebSite\",\"@id\":\"https:\/\/www.loststoriesacademy.com\/#website\",\"url\":\"https:\/\/www.loststoriesacademy.com\/\",\"name\":\"Lost Stories Academy\",\"description\":\"India\\u2019s Premier DJing &amp; Music Production School\",\"publisher\":{\"@id\":\"https:\/\/www.loststoriesacademy.com\/#organization\"},\"potentialAction\":[{\"@type\":\"SearchAction\",\"target\":\"https:\/\/www.loststoriesacademy.com\/?s={search_term_string}\",\"query-input\":\"required name=search_term_string\"}],\"inLanguage\":\"en-US\"},{\"@type\":\"WebPage\",\"@id\":\"https:\/\/www.loststoriesacademy.com\/forums\/forum\/mixing-and-mastering-4\/#webpage\",\"url\":\"https:\/\/www.loststoriesacademy.com\/forums\/forum\/mixing-and-mastering-4\/\",\"name\":\"Mixing and Mastering - Lost Stories Academy\",\"isPartOf\":{\"@id\":\"https:\/\/www.loststoriesacademy.com\/#website\"},\"datePublished\":\"2021-01-10T08:07:26+00:00\",\"dateModified\":\"2021-02-26T09:17:32+00:00\",\"breadcrumb\":{\"@id\":\"https:\/\/www.loststoriesacademy.com\/forums\/forum\/mixing-and-mastering-4\/#breadcrumb\"},\"inLanguage\":\"en-US\",\"potentialAction\":[{\"@type\":\"ReadAction\",\"target\":[\"https:\/\/www.loststoriesacademy.com\/forums\/forum\/mixing-and-mastering-4\/\"]}]},{\"@type\":\"BreadcrumbList\",\"@id\":\"https:\/\/www.loststoriesacademy.com\/forums\/forum\/mixing-and-mastering-4\/#breadcrumb\",\"itemListElement\":[{\"@type\":\"ListItem\",\"position\":1,\"item\":{\"@type\":\"WebPage\",\"@id\":\"https:\/\/www.loststoriesacademy.com\/\",\"url\":\"https:\/\/www.loststoriesacademy.com\/\",\"name\":\"Home\"}},{\"@type\":\"ListItem\",\"position\":2,\"item\":{\"@type\":\"WebPage\",\"@id\":\"https:\/\/www.loststoriesacademy.com\/forums\/\",\"url\":\"https:\/\/www.loststoriesacademy.com\/forums\/\",\"name\":\"Forums\"}},{\"@type\":\"ListItem\",\"position\":3,\"item\":{\"@type\":\"WebPage\",\"@id\":\"https:\/\/www.loststoriesacademy.com\/forums\/forum\/mixing-and-mastering-4\/\",\"url\":\"https:\/\/www.loststoriesacademy.com\/forums\/forum\/mixing-and-mastering-4\/\",\"name\":\"Mixing and Mastering\"}}]}]}<\/script>\n<!-- \/ Yoast SEO plugin. -->",
+        "ACF": false,
+        "_links": {
+            "self": [{
+                "href": "https:\/\/www.loststoriesacademy.com\/wp-json\/wp\/v2\/forum\/10777"
+            }],
+            "collection": [{
+                "href": "https:\/\/www.loststoriesacademy.com\/wp-json\/wp\/v2\/forum"
+            }],
+            "about": [{
+                "href": "https:\/\/www.loststoriesacademy.com\/wp-json\/wp\/v2\/types\/forum"
+            }],
+            "version-history": [{
+                "count": 0,
+                "href": "https:\/\/www.loststoriesacademy.com\/wp-json\/wp\/v2\/forum\/10777\/revisions"
+            }],
+            "wp:attachment": [{
+                "href": "https:\/\/www.loststoriesacademy.com\/wp-json\/wp\/v2\/media?parent=10777"
+            }],
+            "curies": [{
+                "name": "wp",
+                "href": "https:\/\/api.w.org\/{rel}",
+                "templated": true
+            }]
+        }
+    },
+    {
+        "id": 10779,
+        "date": "2021-01-10T13:37:39",
+        "date_gmt": "2021-01-10T08:07:39",
+        "guid": {
+            "rendered": "http:\/\/rohitd46.sg-host.com\/?post_type=forum&#038;p=10779"
+        },
+        "modified": "2021-02-26T14:47:32",
+        "modified_gmt": "2021-02-26T09:17:32",
+        "slug": "audio-engineering",
+        "status": "publish",
+        "type": "forum",
+        "link": "https:\/\/www.loststoriesacademy.com\/forums\/forum\/audio-engineering\/",
+        "title": {
+            "rendered": "Audio Engineering"
+        },
+        "content": {
+            "rendered": "",
+            "protected": false
+        },
+        "featured_media": 0,
+        "parent": 0,
+        "template": "",
+        "yoast_head": "<!-- This site is optimized with the Yoast SEO plugin v16.0.2 - https:\/\/yoast.com\/wordpress\/plugins\/seo\/ -->\n<title>Audio Engineering - Lost Stories Academy<\/title>\n<link rel=\"canonical\" href=\"https:\/\/www.loststoriesacademy.com\/forums\/forum\/audio-engineering\/\" \/>\n<meta property=\"og:locale\" content=\"en_US\" \/>\n<meta property=\"og:type\" content=\"article\" \/>\n<meta property=\"og:title\" content=\"Audio Engineering - Lost Stories Academy\" \/>\n<meta property=\"og:url\" content=\"https:\/\/www.loststoriesacademy.com\/forums\/forum\/audio-engineering\/\" \/>\n<meta property=\"og:site_name\" content=\"Lost Stories Academy\" \/>\n<meta property=\"article:modified_time\" content=\"2021-02-26T09:17:32+00:00\" \/>\n<meta name=\"twitter:card\" content=\"summary_large_image\" \/>\n<script type=\"application\/ld+json\" class=\"yoast-schema-graph\">{\"@context\":\"https:\/\/schema.org\",\"@graph\":[{\"@type\":\"Organization\",\"@id\":\"https:\/\/www.loststoriesacademy.com\/#organization\",\"name\":\"Lost Stories Academy\",\"url\":\"https:\/\/www.loststoriesacademy.com\/\",\"sameAs\":[],\"logo\":{\"@type\":\"ImageObject\",\"@id\":\"https:\/\/www.loststoriesacademy.com\/#logo\",\"inLanguage\":\"en-US\",\"url\":\"https:\/\/d8skzlz85ruek.cloudfront.net\/wp-content\/uploads\/LS-banner-min.jpg\",\"width\":842,\"height\":595,\"caption\":\"Lost Stories Academy\"},\"image\":{\"@id\":\"https:\/\/www.loststoriesacademy.com\/#logo\"}},{\"@type\":\"WebSite\",\"@id\":\"https:\/\/www.loststoriesacademy.com\/#website\",\"url\":\"https:\/\/www.loststoriesacademy.com\/\",\"name\":\"Lost Stories Academy\",\"description\":\"India\\u2019s Premier DJing &amp; Music Production School\",\"publisher\":{\"@id\":\"https:\/\/www.loststoriesacademy.com\/#organization\"},\"potentialAction\":[{\"@type\":\"SearchAction\",\"target\":\"https:\/\/www.loststoriesacademy.com\/?s={search_term_string}\",\"query-input\":\"required name=search_term_string\"}],\"inLanguage\":\"en-US\"},{\"@type\":\"WebPage\",\"@id\":\"https:\/\/www.loststoriesacademy.com\/forums\/forum\/audio-engineering\/#webpage\",\"url\":\"https:\/\/www.loststoriesacademy.com\/forums\/forum\/audio-engineering\/\",\"name\":\"Audio Engineering - Lost Stories Academy\",\"isPartOf\":{\"@id\":\"https:\/\/www.loststoriesacademy.com\/#website\"},\"datePublished\":\"2021-01-10T08:07:39+00:00\",\"dateModified\":\"2021-02-26T09:17:32+00:00\",\"breadcrumb\":{\"@id\":\"https:\/\/www.loststoriesacademy.com\/forums\/forum\/audio-engineering\/#breadcrumb\"},\"inLanguage\":\"en-US\",\"potentialAction\":[{\"@type\":\"ReadAction\",\"target\":[\"https:\/\/www.loststoriesacademy.com\/forums\/forum\/audio-engineering\/\"]}]},{\"@type\":\"BreadcrumbList\",\"@id\":\"https:\/\/www.loststoriesacademy.com\/forums\/forum\/audio-engineering\/#breadcrumb\",\"itemListElement\":[{\"@type\":\"ListItem\",\"position\":1,\"item\":{\"@type\":\"WebPage\",\"@id\":\"https:\/\/www.loststoriesacademy.com\/\",\"url\":\"https:\/\/www.loststoriesacademy.com\/\",\"name\":\"Home\"}},{\"@type\":\"ListItem\",\"position\":2,\"item\":{\"@type\":\"WebPage\",\"@id\":\"https:\/\/www.loststoriesacademy.com\/forums\/\",\"url\":\"https:\/\/www.loststoriesacademy.com\/forums\/\",\"name\":\"Forums\"}},{\"@type\":\"ListItem\",\"position\":3,\"item\":{\"@type\":\"WebPage\",\"@id\":\"https:\/\/www.loststoriesacademy.com\/forums\/forum\/audio-engineering\/\",\"url\":\"https:\/\/www.loststoriesacademy.com\/forums\/forum\/audio-engineering\/\",\"name\":\"Audio Engineering\"}}]}]}<\/script>\n<!-- \/ Yoast SEO plugin. -->",
+        "ACF": false,
+        "_links": {
+            "self": [{
+                "href": "https:\/\/www.loststoriesacademy.com\/wp-json\/wp\/v2\/forum\/10779"
+            }],
+            "collection": [{
+                "href": "https:\/\/www.loststoriesacademy.com\/wp-json\/wp\/v2\/forum"
+            }],
+            "about": [{
+                "href": "https:\/\/www.loststoriesacademy.com\/wp-json\/wp\/v2\/types\/forum"
+            }],
+            "version-history": [{
+                "count": 0,
+                "href": "https:\/\/www.loststoriesacademy.com\/wp-json\/wp\/v2\/forum\/10779\/revisions"
+            }],
+            "wp:attachment": [{
+                "href": "https:\/\/www.loststoriesacademy.com\/wp-json\/wp\/v2\/media?parent=10779"
+            }],
+            "curies": [{
+                "name": "wp",
+                "href": "https:\/\/api.w.org\/{rel}",
+                "templated": true
+            }]
+        }
+    },
+    {
+        "id": 10781,
+        "date": "2021-01-10T13:37:51",
+        "date_gmt": "2021-01-10T08:07:51",
+        "guid": {
+            "rendered": "http:\/\/rohitd46.sg-host.com\/?post_type=forum&#038;p=10781"
+        },
+        "modified": "2021-02-26T14:47:32",
+        "modified_gmt": "2021-02-26T09:17:32",
+        "slug": "instruments",
+        "status": "publish",
+        "type": "forum",
+        "link": "https:\/\/www.loststoriesacademy.com\/forums\/forum\/instruments\/",
+        "title": {
+            "rendered": "Instruments"
+        },
+        "content": {
+            "rendered": "",
+            "protected": false
+        },
+        "featured_media": 0,
+        "parent": 0,
+        "template": "",
+        "yoast_head": "<!-- This site is optimized with the Yoast SEO plugin v16.0.2 - https:\/\/yoast.com\/wordpress\/plugins\/seo\/ -->\n<title>Instruments - Lost Stories Academy<\/title>\n<link rel=\"canonical\" href=\"https:\/\/www.loststoriesacademy.com\/forums\/forum\/instruments\/\" \/>\n<meta property=\"og:locale\" content=\"en_US\" \/>\n<meta property=\"og:type\" content=\"article\" \/>\n<meta property=\"og:title\" content=\"Instruments - Lost Stories Academy\" \/>\n<meta property=\"og:url\" content=\"https:\/\/www.loststoriesacademy.com\/forums\/forum\/instruments\/\" \/>\n<meta property=\"og:site_name\" content=\"Lost Stories Academy\" \/>\n<meta property=\"article:modified_time\" content=\"2021-02-26T09:17:32+00:00\" \/>\n<meta name=\"twitter:card\" content=\"summary_large_image\" \/>\n<script type=\"application\/ld+json\" class=\"yoast-schema-graph\">{\"@context\":\"https:\/\/schema.org\",\"@graph\":[{\"@type\":\"Organization\",\"@id\":\"https:\/\/www.loststoriesacademy.com\/#organization\",\"name\":\"Lost Stories Academy\",\"url\":\"https:\/\/www.loststoriesacademy.com\/\",\"sameAs\":[],\"logo\":{\"@type\":\"ImageObject\",\"@id\":\"https:\/\/www.loststoriesacademy.com\/#logo\",\"inLanguage\":\"en-US\",\"url\":\"https:\/\/d8skzlz85ruek.cloudfront.net\/wp-content\/uploads\/LS-banner-min.jpg\",\"width\":842,\"height\":595,\"caption\":\"Lost Stories Academy\"},\"image\":{\"@id\":\"https:\/\/www.loststoriesacademy.com\/#logo\"}},{\"@type\":\"WebSite\",\"@id\":\"https:\/\/www.loststoriesacademy.com\/#website\",\"url\":\"https:\/\/www.loststoriesacademy.com\/\",\"name\":\"Lost Stories Academy\",\"description\":\"India\\u2019s Premier DJing &amp; Music Production School\",\"publisher\":{\"@id\":\"https:\/\/www.loststoriesacademy.com\/#organization\"},\"potentialAction\":[{\"@type\":\"SearchAction\",\"target\":\"https:\/\/www.loststoriesacademy.com\/?s={search_term_string}\",\"query-input\":\"required name=search_term_string\"}],\"inLanguage\":\"en-US\"},{\"@type\":\"WebPage\",\"@id\":\"https:\/\/www.loststoriesacademy.com\/forums\/forum\/instruments\/#webpage\",\"url\":\"https:\/\/www.loststoriesacademy.com\/forums\/forum\/instruments\/\",\"name\":\"Instruments - Lost Stories Academy\",\"isPartOf\":{\"@id\":\"https:\/\/www.loststoriesacademy.com\/#website\"},\"datePublished\":\"2021-01-10T08:07:51+00:00\",\"dateModified\":\"2021-02-26T09:17:32+00:00\",\"breadcrumb\":{\"@id\":\"https:\/\/www.loststoriesacademy.com\/forums\/forum\/instruments\/#breadcrumb\"},\"inLanguage\":\"en-US\",\"potentialAction\":[{\"@type\":\"ReadAction\",\"target\":[\"https:\/\/www.loststoriesacademy.com\/forums\/forum\/instruments\/\"]}]},{\"@type\":\"BreadcrumbList\",\"@id\":\"https:\/\/www.loststoriesacademy.com\/forums\/forum\/instruments\/#breadcrumb\",\"itemListElement\":[{\"@type\":\"ListItem\",\"position\":1,\"item\":{\"@type\":\"WebPage\",\"@id\":\"https:\/\/www.loststoriesacademy.com\/\",\"url\":\"https:\/\/www.loststoriesacademy.com\/\",\"name\":\"Home\"}},{\"@type\":\"ListItem\",\"position\":2,\"item\":{\"@type\":\"WebPage\",\"@id\":\"https:\/\/www.loststoriesacademy.com\/forums\/\",\"url\":\"https:\/\/www.loststoriesacademy.com\/forums\/\",\"name\":\"Forums\"}},{\"@type\":\"ListItem\",\"position\":3,\"item\":{\"@type\":\"WebPage\",\"@id\":\"https:\/\/www.loststoriesacademy.com\/forums\/forum\/instruments\/\",\"url\":\"https:\/\/www.loststoriesacademy.com\/forums\/forum\/instruments\/\",\"name\":\"Instruments\"}}]}]}<\/script>\n<!-- \/ Yoast SEO plugin. -->",
+        "ACF": false,
+        "_links": {
+            "self": [{
+                "href": "https:\/\/www.loststoriesacademy.com\/wp-json\/wp\/v2\/forum\/10781"
+            }],
+            "collection": [{
+                "href": "https:\/\/www.loststoriesacademy.com\/wp-json\/wp\/v2\/forum"
+            }],
+            "about": [{
+                "href": "https:\/\/www.loststoriesacademy.com\/wp-json\/wp\/v2\/types\/forum"
+            }],
+            "version-history": [{
+                "count": 0,
+                "href": "https:\/\/www.loststoriesacademy.com\/wp-json\/wp\/v2\/forum\/10781\/revisions"
+            }],
+            "wp:attachment": [{
+                "href": "https:\/\/www.loststoriesacademy.com\/wp-json\/wp\/v2\/media?parent=10781"
+            }],
+            "curies": [{
+                "name": "wp",
+                "href": "https:\/\/api.w.org\/{rel}",
+                "templated": true
+            }]
+        }
+    },
+    {
+        "id": 10783,
+        "date": "2021-01-10T13:38:01",
+        "date_gmt": "2021-01-10T08:08:01",
+        "guid": {
+            "rendered": "http:\/\/rohitd46.sg-host.com\/?post_type=forum&#038;p=10783"
+        },
+        "modified": "2021-02-26T14:47:32",
+        "modified_gmt": "2021-02-26T09:17:32",
+        "slug": "music-business-4",
+        "status": "publish",
+        "type": "forum",
+        "link": "https:\/\/www.loststoriesacademy.com\/forums\/forum\/music-business-4\/",
+        "title": {
+            "rendered": "Music Business"
+        },
+        "content": {
+            "rendered": "",
+            "protected": false
+        },
+        "featured_media": 0,
+        "parent": 0,
+        "template": "",
+        "yoast_head": "<!-- This site is optimized with the Yoast SEO plugin v16.0.2 - https:\/\/yoast.com\/wordpress\/plugins\/seo\/ -->\n<title>Music Business - Lost Stories Academy<\/title>\n<link rel=\"canonical\" href=\"https:\/\/www.loststoriesacademy.com\/forums\/forum\/music-business-4\/\" \/>\n<meta property=\"og:locale\" content=\"en_US\" \/>\n<meta property=\"og:type\" content=\"article\" \/>\n<meta property=\"og:title\" content=\"Music Business - Lost Stories Academy\" \/>\n<meta property=\"og:url\" content=\"https:\/\/www.loststoriesacademy.com\/forums\/forum\/music-business-4\/\" \/>\n<meta property=\"og:site_name\" content=\"Lost Stories Academy\" \/>\n<meta property=\"article:modified_time\" content=\"2021-02-26T09:17:32+00:00\" \/>\n<meta name=\"twitter:card\" content=\"summary_large_image\" \/>\n<script type=\"application\/ld+json\" class=\"yoast-schema-graph\">{\"@context\":\"https:\/\/schema.org\",\"@graph\":[{\"@type\":\"Organization\",\"@id\":\"https:\/\/www.loststoriesacademy.com\/#organization\",\"name\":\"Lost Stories Academy\",\"url\":\"https:\/\/www.loststoriesacademy.com\/\",\"sameAs\":[],\"logo\":{\"@type\":\"ImageObject\",\"@id\":\"https:\/\/www.loststoriesacademy.com\/#logo\",\"inLanguage\":\"en-US\",\"url\":\"https:\/\/d8skzlz85ruek.cloudfront.net\/wp-content\/uploads\/LS-banner-min.jpg\",\"width\":842,\"height\":595,\"caption\":\"Lost Stories Academy\"},\"image\":{\"@id\":\"https:\/\/www.loststoriesacademy.com\/#logo\"}},{\"@type\":\"WebSite\",\"@id\":\"https:\/\/www.loststoriesacademy.com\/#website\",\"url\":\"https:\/\/www.loststoriesacademy.com\/\",\"name\":\"Lost Stories Academy\",\"description\":\"India\\u2019s Premier DJing &amp; Music Production School\",\"publisher\":{\"@id\":\"https:\/\/www.loststoriesacademy.com\/#organization\"},\"potentialAction\":[{\"@type\":\"SearchAction\",\"target\":\"https:\/\/www.loststoriesacademy.com\/?s={search_term_string}\",\"query-input\":\"required name=search_term_string\"}],\"inLanguage\":\"en-US\"},{\"@type\":\"WebPage\",\"@id\":\"https:\/\/www.loststoriesacademy.com\/forums\/forum\/music-business-4\/#webpage\",\"url\":\"https:\/\/www.loststoriesacademy.com\/forums\/forum\/music-business-4\/\",\"name\":\"Music Business - Lost Stories Academy\",\"isPartOf\":{\"@id\":\"https:\/\/www.loststoriesacademy.com\/#website\"},\"datePublished\":\"2021-01-10T08:08:01+00:00\",\"dateModified\":\"2021-02-26T09:17:32+00:00\",\"breadcrumb\":{\"@id\":\"https:\/\/www.loststoriesacademy.com\/forums\/forum\/music-business-4\/#breadcrumb\"},\"inLanguage\":\"en-US\",\"potentialAction\":[{\"@type\":\"ReadAction\",\"target\":[\"https:\/\/www.loststoriesacademy.com\/forums\/forum\/music-business-4\/\"]}]},{\"@type\":\"BreadcrumbList\",\"@id\":\"https:\/\/www.loststoriesacademy.com\/forums\/forum\/music-business-4\/#breadcrumb\",\"itemListElement\":[{\"@type\":\"ListItem\",\"position\":1,\"item\":{\"@type\":\"WebPage\",\"@id\":\"https:\/\/www.loststoriesacademy.com\/\",\"url\":\"https:\/\/www.loststoriesacademy.com\/\",\"name\":\"Home\"}},{\"@type\":\"ListItem\",\"position\":2,\"item\":{\"@type\":\"WebPage\",\"@id\":\"https:\/\/www.loststoriesacademy.com\/forums\/\",\"url\":\"https:\/\/www.loststoriesacademy.com\/forums\/\",\"name\":\"Forums\"}},{\"@type\":\"ListItem\",\"position\":3,\"item\":{\"@type\":\"WebPage\",\"@id\":\"https:\/\/www.loststoriesacademy.com\/forums\/forum\/music-business-4\/\",\"url\":\"https:\/\/www.loststoriesacademy.com\/forums\/forum\/music-business-4\/\",\"name\":\"Music Business\"}}]}]}<\/script>\n<!-- \/ Yoast SEO plugin. -->",
+        "ACF": false,
+        "_links": {
+            "self": [{
+                "href": "https:\/\/www.loststoriesacademy.com\/wp-json\/wp\/v2\/forum\/10783"
+            }],
+            "collection": [{
+                "href": "https:\/\/www.loststoriesacademy.com\/wp-json\/wp\/v2\/forum"
+            }],
+            "about": [{
+                "href": "https:\/\/www.loststoriesacademy.com\/wp-json\/wp\/v2\/types\/forum"
+            }],
+            "version-history": [{
+                "count": 0,
+                "href": "https:\/\/www.loststoriesacademy.com\/wp-json\/wp\/v2\/forum\/10783\/revisions"
+            }],
+            "wp:attachment": [{
+                "href": "https:\/\/www.loststoriesacademy.com\/wp-json\/wp\/v2\/media?parent=10783"
+            }],
+            "curies": [{
+                "name": "wp",
+                "href": "https:\/\/api.w.org\/{rel}",
+                "templated": true
+            }]
+        }
+    },
+    {
+        "id": 10785,
+        "date": "2021-01-10T13:38:16",
+        "date_gmt": "2021-01-10T08:08:16",
+        "guid": {
+            "rendered": "http:\/\/rohitd46.sg-host.com\/?post_type=forum&#038;p=10785"
+        },
+        "modified": "2021-02-26T14:47:32",
+        "modified_gmt": "2021-02-26T09:17:32",
+        "slug": "social-media",
+        "status": "publish",
+        "type": "forum",
+        "link": "https:\/\/www.loststoriesacademy.com\/forums\/forum\/social-media\/",
+        "title": {
+            "rendered": "Social Media"
+        },
+        "content": {
+            "rendered": "",
+            "protected": false
+        },
+        "featured_media": 0,
+        "parent": 0,
+        "template": "",
+        "yoast_head": "<!-- This site is optimized with the Yoast SEO plugin v16.0.2 - https:\/\/yoast.com\/wordpress\/plugins\/seo\/ -->\n<title>Social Media - Lost Stories Academy<\/title>\n<link rel=\"canonical\" href=\"https:\/\/www.loststoriesacademy.com\/forums\/forum\/social-media\/\" \/>\n<meta property=\"og:locale\" content=\"en_US\" \/>\n<meta property=\"og:type\" content=\"article\" \/>\n<meta property=\"og:title\" content=\"Social Media - Lost Stories Academy\" \/>\n<meta property=\"og:url\" content=\"https:\/\/www.loststoriesacademy.com\/forums\/forum\/social-media\/\" \/>\n<meta property=\"og:site_name\" content=\"Lost Stories Academy\" \/>\n<meta property=\"article:modified_time\" content=\"2021-02-26T09:17:32+00:00\" \/>\n<meta name=\"twitter:card\" content=\"summary_large_image\" \/>\n<script type=\"application\/ld+json\" class=\"yoast-schema-graph\">{\"@context\":\"https:\/\/schema.org\",\"@graph\":[{\"@type\":\"Organization\",\"@id\":\"https:\/\/www.loststoriesacademy.com\/#organization\",\"name\":\"Lost Stories Academy\",\"url\":\"https:\/\/www.loststoriesacademy.com\/\",\"sameAs\":[],\"logo\":{\"@type\":\"ImageObject\",\"@id\":\"https:\/\/www.loststoriesacademy.com\/#logo\",\"inLanguage\":\"en-US\",\"url\":\"https:\/\/d8skzlz85ruek.cloudfront.net\/wp-content\/uploads\/LS-banner-min.jpg\",\"width\":842,\"height\":595,\"caption\":\"Lost Stories Academy\"},\"image\":{\"@id\":\"https:\/\/www.loststoriesacademy.com\/#logo\"}},{\"@type\":\"WebSite\",\"@id\":\"https:\/\/www.loststoriesacademy.com\/#website\",\"url\":\"https:\/\/www.loststoriesacademy.com\/\",\"name\":\"Lost Stories Academy\",\"description\":\"India\\u2019s Premier DJing &amp; Music Production School\",\"publisher\":{\"@id\":\"https:\/\/www.loststoriesacademy.com\/#organization\"},\"potentialAction\":[{\"@type\":\"SearchAction\",\"target\":\"https:\/\/www.loststoriesacademy.com\/?s={search_term_string}\",\"query-input\":\"required name=search_term_string\"}],\"inLanguage\":\"en-US\"},{\"@type\":\"WebPage\",\"@id\":\"https:\/\/www.loststoriesacademy.com\/forums\/forum\/social-media\/#webpage\",\"url\":\"https:\/\/www.loststoriesacademy.com\/forums\/forum\/social-media\/\",\"name\":\"Social Media - Lost Stories Academy\",\"isPartOf\":{\"@id\":\"https:\/\/www.loststoriesacademy.com\/#website\"},\"datePublished\":\"2021-01-10T08:08:16+00:00\",\"dateModified\":\"2021-02-26T09:17:32+00:00\",\"breadcrumb\":{\"@id\":\"https:\/\/www.loststoriesacademy.com\/forums\/forum\/social-media\/#breadcrumb\"},\"inLanguage\":\"en-US\",\"potentialAction\":[{\"@type\":\"ReadAction\",\"target\":[\"https:\/\/www.loststoriesacademy.com\/forums\/forum\/social-media\/\"]}]},{\"@type\":\"BreadcrumbList\",\"@id\":\"https:\/\/www.loststoriesacademy.com\/forums\/forum\/social-media\/#breadcrumb\",\"itemListElement\":[{\"@type\":\"ListItem\",\"position\":1,\"item\":{\"@type\":\"WebPage\",\"@id\":\"https:\/\/www.loststoriesacademy.com\/\",\"url\":\"https:\/\/www.loststoriesacademy.com\/\",\"name\":\"Home\"}},{\"@type\":\"ListItem\",\"position\":2,\"item\":{\"@type\":\"WebPage\",\"@id\":\"https:\/\/www.loststoriesacademy.com\/forums\/\",\"url\":\"https:\/\/www.loststoriesacademy.com\/forums\/\",\"name\":\"Forums\"}},{\"@type\":\"ListItem\",\"position\":3,\"item\":{\"@type\":\"WebPage\",\"@id\":\"https:\/\/www.loststoriesacademy.com\/forums\/forum\/social-media\/\",\"url\":\"https:\/\/www.loststoriesacademy.com\/forums\/forum\/social-media\/\",\"name\":\"Social Media\"}}]}]}<\/script>\n<!-- \/ Yoast SEO plugin. -->",
+        "ACF": false,
+        "_links": {
+            "self": [{
+                "href": "https:\/\/www.loststoriesacademy.com\/wp-json\/wp\/v2\/forum\/10785"
+            }],
+            "collection": [{
+                "href": "https:\/\/www.loststoriesacademy.com\/wp-json\/wp\/v2\/forum"
+            }],
+            "about": [{
+                "href": "https:\/\/www.loststoriesacademy.com\/wp-json\/wp\/v2\/types\/forum"
+            }],
+            "version-history": [{
+                "count": 0,
+                "href": "https:\/\/www.loststoriesacademy.com\/wp-json\/wp\/v2\/forum\/10785\/revisions"
+            }],
+            "wp:attachment": [{
+                "href": "https:\/\/www.loststoriesacademy.com\/wp-json\/wp\/v2\/media?parent=10785"
+            }],
+            "curies": [{
+                "name": "wp",
+                "href": "https:\/\/api.w.org\/{rel}",
+                "templated": true
+            }]
+        }
+    },
+    {
+        "id": 10787,
+        "date": "2021-01-10T13:38:29",
+        "date_gmt": "2021-01-10T08:08:29",
+        "guid": {
+            "rendered": "http:\/\/rohitd46.sg-host.com\/?post_type=forum&#038;p=10787"
+        },
+        "modified": "2021-02-26T14:47:32",
+        "modified_gmt": "2021-02-26T09:17:32",
+        "slug": "track-releases",
+        "status": "publish",
+        "type": "forum",
+        "link": "https:\/\/www.loststoriesacademy.com\/forums\/forum\/track-releases\/",
+        "title": {
+            "rendered": "Track Releases"
+        },
+        "content": {
+            "rendered": "",
+            "protected": false
+        },
+        "featured_media": 0,
+        "parent": 0,
+        "template": "",
+        "yoast_head": "<!-- This site is optimized with the Yoast SEO plugin v16.0.2 - https:\/\/yoast.com\/wordpress\/plugins\/seo\/ -->\n<title>Track Releases - Lost Stories Academy<\/title>\n<link rel=\"canonical\" href=\"https:\/\/www.loststoriesacademy.com\/forums\/forum\/track-releases\/\" \/>\n<meta property=\"og:locale\" content=\"en_US\" \/>\n<meta property=\"og:type\" content=\"article\" \/>\n<meta property=\"og:title\" content=\"Track Releases - Lost Stories Academy\" \/>\n<meta property=\"og:url\" content=\"https:\/\/www.loststoriesacademy.com\/forums\/forum\/track-releases\/\" \/>\n<meta property=\"og:site_name\" content=\"Lost Stories Academy\" \/>\n<meta property=\"article:modified_time\" content=\"2021-02-26T09:17:32+00:00\" \/>\n<meta name=\"twitter:card\" content=\"summary_large_image\" \/>\n<script type=\"application\/ld+json\" class=\"yoast-schema-graph\">{\"@context\":\"https:\/\/schema.org\",\"@graph\":[{\"@type\":\"Organization\",\"@id\":\"https:\/\/www.loststoriesacademy.com\/#organization\",\"name\":\"Lost Stories Academy\",\"url\":\"https:\/\/www.loststoriesacademy.com\/\",\"sameAs\":[],\"logo\":{\"@type\":\"ImageObject\",\"@id\":\"https:\/\/www.loststoriesacademy.com\/#logo\",\"inLanguage\":\"en-US\",\"url\":\"https:\/\/d8skzlz85ruek.cloudfront.net\/wp-content\/uploads\/LS-banner-min.jpg\",\"width\":842,\"height\":595,\"caption\":\"Lost Stories Academy\"},\"image\":{\"@id\":\"https:\/\/www.loststoriesacademy.com\/#logo\"}},{\"@type\":\"WebSite\",\"@id\":\"https:\/\/www.loststoriesacademy.com\/#website\",\"url\":\"https:\/\/www.loststoriesacademy.com\/\",\"name\":\"Lost Stories Academy\",\"description\":\"India\\u2019s Premier DJing &amp; Music Production School\",\"publisher\":{\"@id\":\"https:\/\/www.loststoriesacademy.com\/#organization\"},\"potentialAction\":[{\"@type\":\"SearchAction\",\"target\":\"https:\/\/www.loststoriesacademy.com\/?s={search_term_string}\",\"query-input\":\"required name=search_term_string\"}],\"inLanguage\":\"en-US\"},{\"@type\":\"WebPage\",\"@id\":\"https:\/\/www.loststoriesacademy.com\/forums\/forum\/track-releases\/#webpage\",\"url\":\"https:\/\/www.loststoriesacademy.com\/forums\/forum\/track-releases\/\",\"name\":\"Track Releases - Lost Stories Academy\",\"isPartOf\":{\"@id\":\"https:\/\/www.loststoriesacademy.com\/#website\"},\"datePublished\":\"2021-01-10T08:08:29+00:00\",\"dateModified\":\"2021-02-26T09:17:32+00:00\",\"breadcrumb\":{\"@id\":\"https:\/\/www.loststoriesacademy.com\/forums\/forum\/track-releases\/#breadcrumb\"},\"inLanguage\":\"en-US\",\"potentialAction\":[{\"@type\":\"ReadAction\",\"target\":[\"https:\/\/www.loststoriesacademy.com\/forums\/forum\/track-releases\/\"]}]},{\"@type\":\"BreadcrumbList\",\"@id\":\"https:\/\/www.loststoriesacademy.com\/forums\/forum\/track-releases\/#breadcrumb\",\"itemListElement\":[{\"@type\":\"ListItem\",\"position\":1,\"item\":{\"@type\":\"WebPage\",\"@id\":\"https:\/\/www.loststoriesacademy.com\/\",\"url\":\"https:\/\/www.loststoriesacademy.com\/\",\"name\":\"Home\"}},{\"@type\":\"ListItem\",\"position\":2,\"item\":{\"@type\":\"WebPage\",\"@id\":\"https:\/\/www.loststoriesacademy.com\/forums\/\",\"url\":\"https:\/\/www.loststoriesacademy.com\/forums\/\",\"name\":\"Forums\"}},{\"@type\":\"ListItem\",\"position\":3,\"item\":{\"@type\":\"WebPage\",\"@id\":\"https:\/\/www.loststoriesacademy.com\/forums\/forum\/track-releases\/\",\"url\":\"https:\/\/www.loststoriesacademy.com\/forums\/forum\/track-releases\/\",\"name\":\"Track Releases\"}}]}]}<\/script>\n<!-- \/ Yoast SEO plugin. -->",
+        "ACF": false,
+        "_links": {
+            "self": [{
+                "href": "https:\/\/www.loststoriesacademy.com\/wp-json\/wp\/v2\/forum\/10787"
+            }],
+            "collection": [{
+                "href": "https:\/\/www.loststoriesacademy.com\/wp-json\/wp\/v2\/forum"
+            }],
+            "about": [{
+                "href": "https:\/\/www.loststoriesacademy.com\/wp-json\/wp\/v2\/types\/forum"
+            }],
+            "version-history": [{
+                "count": 0,
+                "href": "https:\/\/www.loststoriesacademy.com\/wp-json\/wp\/v2\/forum\/10787\/revisions"
+            }],
+            "wp:attachment": [{
+                "href": "https:\/\/www.loststoriesacademy.com\/wp-json\/wp\/v2\/media?parent=10787"
+            }],
+            "curies": [{
+                "name": "wp",
+                "href": "https:\/\/api.w.org\/{rel}",
+                "templated": true
+            }]
+        }
+    },
+    {
+        "id": 10789,
+        "date": "2021-01-10T13:38:40",
+        "date_gmt": "2021-01-10T08:08:40",
+        "guid": {
+            "rendered": "http:\/\/rohitd46.sg-host.com\/?post_type=forum&#038;p=10789"
+        },
+        "modified": "2021-02-26T14:47:32",
+        "modified_gmt": "2021-02-26T09:17:32",
+        "slug": "demo-feedback",
+        "status": "publish",
+        "type": "forum",
+        "link": "https:\/\/www.loststoriesacademy.com\/forums\/forum\/demo-feedback\/",
+        "title": {
+            "rendered": "Demo feedback"
+        },
+        "content": {
+            "rendered": "",
+            "protected": false
+        },
+        "featured_media": 0,
+        "parent": 0,
+        "template": "",
+        "yoast_head": "<!-- This site is optimized with the Yoast SEO plugin v16.0.2 - https:\/\/yoast.com\/wordpress\/plugins\/seo\/ -->\n<title>Demo feedback - Lost Stories Academy<\/title>\n<link rel=\"canonical\" href=\"https:\/\/www.loststoriesacademy.com\/forums\/forum\/demo-feedback\/\" \/>\n<meta property=\"og:locale\" content=\"en_US\" \/>\n<meta property=\"og:type\" content=\"article\" \/>\n<meta property=\"og:title\" content=\"Demo feedback - Lost Stories Academy\" \/>\n<meta property=\"og:url\" content=\"https:\/\/www.loststoriesacademy.com\/forums\/forum\/demo-feedback\/\" \/>\n<meta property=\"og:site_name\" content=\"Lost Stories Academy\" \/>\n<meta property=\"article:modified_time\" content=\"2021-02-26T09:17:32+00:00\" \/>\n<meta name=\"twitter:card\" content=\"summary_large_image\" \/>\n<script type=\"application\/ld+json\" class=\"yoast-schema-graph\">{\"@context\":\"https:\/\/schema.org\",\"@graph\":[{\"@type\":\"Organization\",\"@id\":\"https:\/\/www.loststoriesacademy.com\/#organization\",\"name\":\"Lost Stories Academy\",\"url\":\"https:\/\/www.loststoriesacademy.com\/\",\"sameAs\":[],\"logo\":{\"@type\":\"ImageObject\",\"@id\":\"https:\/\/www.loststoriesacademy.com\/#logo\",\"inLanguage\":\"en-US\",\"url\":\"https:\/\/d8skzlz85ruek.cloudfront.net\/wp-content\/uploads\/LS-banner-min.jpg\",\"width\":842,\"height\":595,\"caption\":\"Lost Stories Academy\"},\"image\":{\"@id\":\"https:\/\/www.loststoriesacademy.com\/#logo\"}},{\"@type\":\"WebSite\",\"@id\":\"https:\/\/www.loststoriesacademy.com\/#website\",\"url\":\"https:\/\/www.loststoriesacademy.com\/\",\"name\":\"Lost Stories Academy\",\"description\":\"India\\u2019s Premier DJing &amp; Music Production School\",\"publisher\":{\"@id\":\"https:\/\/www.loststoriesacademy.com\/#organization\"},\"potentialAction\":[{\"@type\":\"SearchAction\",\"target\":\"https:\/\/www.loststoriesacademy.com\/?s={search_term_string}\",\"query-input\":\"required name=search_term_string\"}],\"inLanguage\":\"en-US\"},{\"@type\":\"WebPage\",\"@id\":\"https:\/\/www.loststoriesacademy.com\/forums\/forum\/demo-feedback\/#webpage\",\"url\":\"https:\/\/www.loststoriesacademy.com\/forums\/forum\/demo-feedback\/\",\"name\":\"Demo feedback - Lost Stories Academy\",\"isPartOf\":{\"@id\":\"https:\/\/www.loststoriesacademy.com\/#website\"},\"datePublished\":\"2021-01-10T08:08:40+00:00\",\"dateModified\":\"2021-02-26T09:17:32+00:00\",\"breadcrumb\":{\"@id\":\"https:\/\/www.loststoriesacademy.com\/forums\/forum\/demo-feedback\/#breadcrumb\"},\"inLanguage\":\"en-US\",\"potentialAction\":[{\"@type\":\"ReadAction\",\"target\":[\"https:\/\/www.loststoriesacademy.com\/forums\/forum\/demo-feedback\/\"]}]},{\"@type\":\"BreadcrumbList\",\"@id\":\"https:\/\/www.loststoriesacademy.com\/forums\/forum\/demo-feedback\/#breadcrumb\",\"itemListElement\":[{\"@type\":\"ListItem\",\"position\":1,\"item\":{\"@type\":\"WebPage\",\"@id\":\"https:\/\/www.loststoriesacademy.com\/\",\"url\":\"https:\/\/www.loststoriesacademy.com\/\",\"name\":\"Home\"}},{\"@type\":\"ListItem\",\"position\":2,\"item\":{\"@type\":\"WebPage\",\"@id\":\"https:\/\/www.loststoriesacademy.com\/forums\/\",\"url\":\"https:\/\/www.loststoriesacademy.com\/forums\/\",\"name\":\"Forums\"}},{\"@type\":\"ListItem\",\"position\":3,\"item\":{\"@type\":\"WebPage\",\"@id\":\"https:\/\/www.loststoriesacademy.com\/forums\/forum\/demo-feedback\/\",\"url\":\"https:\/\/www.loststoriesacademy.com\/forums\/forum\/demo-feedback\/\",\"name\":\"Demo feedback\"}}]}]}<\/script>\n<!-- \/ Yoast SEO plugin. -->",
+        "ACF": false,
+        "_links": {
+            "self": [{
+                "href": "https:\/\/www.loststoriesacademy.com\/wp-json\/wp\/v2\/forum\/10789"
+            }],
+            "collection": [{
+                "href": "https:\/\/www.loststoriesacademy.com\/wp-json\/wp\/v2\/forum"
+            }],
+            "about": [{
+                "href": "https:\/\/www.loststoriesacademy.com\/wp-json\/wp\/v2\/types\/forum"
+            }],
+            "version-history": [{
+                "count": 0,
+                "href": "https:\/\/www.loststoriesacademy.com\/wp-json\/wp\/v2\/forum\/10789\/revisions"
+            }],
+            "wp:attachment": [{
+                "href": "https:\/\/www.loststoriesacademy.com\/wp-json\/wp\/v2\/media?parent=10789"
+            }],
+            "curies": [{
+                "name": "wp",
+                "href": "https:\/\/api.w.org\/{rel}",
+                "templated": true
+            }]
+        }
+    },
+    {
+        "id": 10791,
+        "date": "2021-01-10T13:38:50",
+        "date_gmt": "2021-01-10T08:08:50",
+        "guid": {
+            "rendered": "http:\/\/rohitd46.sg-host.com\/?post_type=forum&#038;p=10791"
+        },
+        "modified": "2021-02-26T14:47:32",
+        "modified_gmt": "2021-02-26T09:17:32",
+        "slug": "other",
+        "status": "publish",
+        "type": "forum",
+        "link": "https:\/\/www.loststoriesacademy.com\/forums\/forum\/other\/",
+        "title": {
+            "rendered": "Other"
+        },
+        "content": {
+            "rendered": "",
+            "protected": false
+        },
+        "featured_media": 0,
+        "parent": 0,
+        "template": "",
+        "yoast_head": "<!-- This site is optimized with the Yoast SEO plugin v16.0.2 - https:\/\/yoast.com\/wordpress\/plugins\/seo\/ -->\n<title>Other - Lost Stories Academy<\/title>\n<link rel=\"canonical\" href=\"https:\/\/www.loststoriesacademy.com\/forums\/forum\/other\/\" \/>\n<meta property=\"og:locale\" content=\"en_US\" \/>\n<meta property=\"og:type\" content=\"article\" \/>\n<meta property=\"og:title\" content=\"Other - Lost Stories Academy\" \/>\n<meta property=\"og:url\" content=\"https:\/\/www.loststoriesacademy.com\/forums\/forum\/other\/\" \/>\n<meta property=\"og:site_name\" content=\"Lost Stories Academy\" \/>\n<meta property=\"article:modified_time\" content=\"2021-02-26T09:17:32+00:00\" \/>\n<meta name=\"twitter:card\" content=\"summary_large_image\" \/>\n<script type=\"application\/ld+json\" class=\"yoast-schema-graph\">{\"@context\":\"https:\/\/schema.org\",\"@graph\":[{\"@type\":\"Organization\",\"@id\":\"https:\/\/www.loststoriesacademy.com\/#organization\",\"name\":\"Lost Stories Academy\",\"url\":\"https:\/\/www.loststoriesacademy.com\/\",\"sameAs\":[],\"logo\":{\"@type\":\"ImageObject\",\"@id\":\"https:\/\/www.loststoriesacademy.com\/#logo\",\"inLanguage\":\"en-US\",\"url\":\"https:\/\/d8skzlz85ruek.cloudfront.net\/wp-content\/uploads\/LS-banner-min.jpg\",\"width\":842,\"height\":595,\"caption\":\"Lost Stories Academy\"},\"image\":{\"@id\":\"https:\/\/www.loststoriesacademy.com\/#logo\"}},{\"@type\":\"WebSite\",\"@id\":\"https:\/\/www.loststoriesacademy.com\/#website\",\"url\":\"https:\/\/www.loststoriesacademy.com\/\",\"name\":\"Lost Stories Academy\",\"description\":\"India\\u2019s Premier DJing &amp; Music Production School\",\"publisher\":{\"@id\":\"https:\/\/www.loststoriesacademy.com\/#organization\"},\"potentialAction\":[{\"@type\":\"SearchAction\",\"target\":\"https:\/\/www.loststoriesacademy.com\/?s={search_term_string}\",\"query-input\":\"required name=search_term_string\"}],\"inLanguage\":\"en-US\"},{\"@type\":\"WebPage\",\"@id\":\"https:\/\/www.loststoriesacademy.com\/forums\/forum\/other\/#webpage\",\"url\":\"https:\/\/www.loststoriesacademy.com\/forums\/forum\/other\/\",\"name\":\"Other - Lost Stories Academy\",\"isPartOf\":{\"@id\":\"https:\/\/www.loststoriesacademy.com\/#website\"},\"datePublished\":\"2021-01-10T08:08:50+00:00\",\"dateModified\":\"2021-02-26T09:17:32+00:00\",\"breadcrumb\":{\"@id\":\"https:\/\/www.loststoriesacademy.com\/forums\/forum\/other\/#breadcrumb\"},\"inLanguage\":\"en-US\",\"potentialAction\":[{\"@type\":\"ReadAction\",\"target\":[\"https:\/\/www.loststoriesacademy.com\/forums\/forum\/other\/\"]}]},{\"@type\":\"BreadcrumbList\",\"@id\":\"https:\/\/www.loststoriesacademy.com\/forums\/forum\/other\/#breadcrumb\",\"itemListElement\":[{\"@type\":\"ListItem\",\"position\":1,\"item\":{\"@type\":\"WebPage\",\"@id\":\"https:\/\/www.loststoriesacademy.com\/\",\"url\":\"https:\/\/www.loststoriesacademy.com\/\",\"name\":\"Home\"}},{\"@type\":\"ListItem\",\"position\":2,\"item\":{\"@type\":\"WebPage\",\"@id\":\"https:\/\/www.loststoriesacademy.com\/forums\/\",\"url\":\"https:\/\/www.loststoriesacademy.com\/forums\/\",\"name\":\"Forums\"}},{\"@type\":\"ListItem\",\"position\":3,\"item\":{\"@type\":\"WebPage\",\"@id\":\"https:\/\/www.loststoriesacademy.com\/forums\/forum\/other\/\",\"url\":\"https:\/\/www.loststoriesacademy.com\/forums\/forum\/other\/\",\"name\":\"Other\"}}]}]}<\/script>\n<!-- \/ Yoast SEO plugin. -->",
+        "ACF": false,
+        "_links": {
+            "self": [{
+                "href": "https:\/\/www.loststoriesacademy.com\/wp-json\/wp\/v2\/forum\/10791"
+            }],
+            "collection": [{
+                "href": "https:\/\/www.loststoriesacademy.com\/wp-json\/wp\/v2\/forum"
+            }],
+            "about": [{
+                "href": "https:\/\/www.loststoriesacademy.com\/wp-json\/wp\/v2\/types\/forum"
+            }],
+            "version-history": [{
+                "count": 0,
+                "href": "https:\/\/www.loststoriesacademy.com\/wp-json\/wp\/v2\/forum\/10791\/revisions"
+            }],
+            "wp:attachment": [{
+                "href": "https:\/\/www.loststoriesacademy.com\/wp-json\/wp\/v2\/media?parent=10791"
+            }],
+            "curies": [{
+                "name": "wp",
+                "href": "https:\/\/api.w.org\/{rel}",
+                "templated": true
+            }]
+        }
+    }
+]
